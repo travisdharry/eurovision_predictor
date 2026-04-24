@@ -1,0 +1,35 @@
+=== Optimizing Fantasy League Token Values ===
+
+Testing 10800 token value combinations...
+This may take a few minutes...
+
+Traceback (most recent call last):
+  File "/Users/travisdharry/Desktop/Coding/eurovision_predictor/optimize_fantasy_tokens.py", line 246, in <module>
+    std_dev, score_range, avg_scores = evaluate_token_values(bb, bp, sb, sp, gb, gp)
+                                       ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/travisdharry/Desktop/Coding/eurovision_predictor/optimize_fantasy_tokens.py", line 209, in evaluate_token_values
+    result = simulate_year(year_data, token_values)
+  File "/Users/travisdharry/Desktop/Coding/eurovision_predictor/optimize_fantasy_tokens.py", line 75, in simulate_year
+    pick = pick_country(available, PLAYERS[player]['strategy'])
+  File "/Users/travisdharry/Desktop/Coding/eurovision_predictor/optimize_fantasy_tokens.py", line 52, in pick_country
+    return preferred.nlargest(1, 'semi_total_points', keep='first').iloc[0]
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/pandas/core/frame.py", line 7666, in nlargest
+    return selectn.SelectNFrame(self, n=n, keep=keep, columns=columns).nlargest()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/pandas/core/methods/selectn.py", line 57, in nlargest
+    return self.compute("nlargest")
+           ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/pandas/core/methods/selectn.py", line 232, in compute
+    values = getattr(series, method)(
+        cur_n, keep=self.keep if is_last_column else "all"
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/pandas/core/series.py", line 4271, in nlargest
+    return selectn.SelectNSeries(self, n=n, keep=keep).nlargest()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/pandas/core/methods/selectn.py", line 57, in nlargest
+    return self.compute("nlargest")
+           ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/pandas/core/methods/selectn.py", line 144, in compute
+    kth_val = libalgos.kth_smallest(arr.copy(order="C"), n - 1)
+KeyboardInterrupt

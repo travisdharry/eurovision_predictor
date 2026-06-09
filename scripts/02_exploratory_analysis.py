@@ -1,6 +1,10 @@
 import pandas as pd
+import os
 
-df = pd.read_csv('data/song_data_clustered_semi_normalized.csv')
+# Create outputs directory if it doesn't exist
+os.makedirs('outputs', exist_ok=True)
+
+df = pd.read_csv('data/song_data_balanced.csv')
 
 # Assign proxy semi scores to direct qualifiers FIRST
 for year in df['year'].unique():
@@ -57,7 +61,10 @@ for year in df['year'].unique():
         for idx in tier3_countries.index:
             df.loc[idx, 'tier'] = 3
 
-print('=== QUALIFICATION RATES BY TIER ===\n')
+# Collect output
+output_lines = []
+output_lines.append('=== QUALIFICATION RATES BY TIER ===\n')
+
 for tier in [1, 2, 3]:
     tier_data = df[df['tier'] == tier]
     qualifiers = tier_data[tier_data['qualified_10'] == 1]
@@ -72,10 +79,50 @@ for tier in [1, 2, 3]:
     avg_final_score = tier_data['final_total_points'].mean()
     avg_final_score_qualifiers = qualifiers['final_total_points'].mean()
     
-    print(f'Tier {tier}:')
-    print(f'  Total countries: {len(tier_data)}')
-    print(f'  Overall qualification rate: {qual_rate:.1f}%')
-    print(f'  Semi-finalist qualification rate: {semi_qual_rate:.1f}%')
-    print(f'  Average final score (all): {avg_final_score:.1f}')
-    print(f'  Average final score (qualifiers): {avg_final_score_qualifiers:.1f}')
-    print()
+    output_lines.append(f'Tier {tier}:')
+    output_lines.append(f'  Total countries: {len(tier_data)}')
+    output_lines.append(f'  Overall qualification rate: {qual_rate:.1f}%')
+    output_lines.append(f'  Semi-finalist qualification rate: {semi_qual_rate:.1f}%')
+    output_lines.append(f'  Average final score (all): {avg_final_score:.1f}')
+    output_lines.append(f'  Average final score (qualifiers): {avg_final_score_qualifiers:.1f}')
+    output_lines.append('')
+
+# Calculate average final score (qualifiers) by finishing place
+# Finalists include semi qualifiers plus direct qualifiers.
+finalists = df[(df['qualified_10'] == 1) | (df['direct_qualifier_10'] == 1)].copy()
+
+finalists['finishing_place'] = (
+    finalists.groupby('year')['final_total_points']
+    .rank(method='first', ascending=False)
+    .astype(int)
+)
+
+finishing_place_avg = (
+    finalists.groupby('finishing_place')['final_total_points']
+    .mean()
+    .reset_index()
+    .sort_values('finishing_place')
+)
+
+output_lines.append('=== AVERAGE FINAL SCORE (QUALIFIERS) BY FINISHING PLACE ===\n')
+for _, row in finishing_place_avg.iterrows():
+    place = int(row['finishing_place'])
+    avg_score = row['final_total_points']
+    output_lines.append(f'Place {place}: {avg_score:.1f}')
+
+# Write to file
+output_text = '\n'.join(output_lines)
+
+primary_output_path = 'outputs/tier_analysis.txt'
+with open(primary_output_path, 'w') as f:
+    f.write(output_text)
+
+# Keep this filename for backward compatibility with previous runs.
+legacy_output_path = 'outputs/exploratory_analysis.txt'
+with open(legacy_output_path, 'w') as f:
+    f.write(output_text)
+
+# Also print to console
+print(output_text)
+print(f'Results saved to: {primary_output_path}')
+print(f'Results also saved to: {legacy_output_path}')

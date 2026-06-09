@@ -1,0 +1,97 @@
+{
+  "num_iterations": 50,
+  "tier1_size": 10,
+  "tier2_size": 10,
+  "configurations": [
+    {
+      "mode": "full",
+      "label": "C: Full Penalties",
+      "token_values": {
+        "Bronze": {
+          "bonus": 10,
+          "penalty": 5
+        },
+        "Silver": {
+          "bonus": 100,
+          "penalty": 50
+        },
+        "Gold": {
+          "bonus": 250,
+          "penalty": 125
+        }
+      },
+      "std_dev": 22.334362293409153,
+      "range": 57.43230769230786,
+      "position_means": [
+        600.3353846153847,
+        626.0661538461538,
+        611.2153846153847,
+        636.4861538461539,
+        632.2630769230769,
+        579.053846153846,
+        580.2630769230768,
+        583.1723076923076
+      ]
+    },
+    {
+      "mode": "winner_only",
+      "label": "B: Winner-Only Penalty",
+      "token_values": {
+        "Bronze": {
+          "bonus": 10,
+          "penalty": 5
+        },
+        "Silver": {
+          "bonus": 100,
+          "penalty": 50
+        },
+        "Gold": {
+          "bonus": 250,
+          "penalty": 125
+        }
+      },
+      "std_dev": 24.90256416064718,
+      "range": 72.10307692307697,
+      "position_means": [
+        584.4307692307692,
+        584.776923076923,
+        616.0861538461539,
+        640.4707692307693,
+        645.0123076923078,
+        609.636923076923,
+        594.8061538461538,
+        572.9092307692308
+      ]
+    },
+    {
+      "mode": "none",
+      "label": "A: No Penalties (Control)",
+      "token_values": {
+        "Bronze": {
+          "bonus": 10,
+          "penalty": 5
+        },
+        "Silver": {
+          "bonus": 100,
+          "penalty": 50
+        },
+        "Gold": {
+          "bonus": 250,
+          "penalty": 125
+        }
+      },
+      "std_dev": 27.79712279114468,
+      "range": 99.15846153846144,
+      "position_means": [
+        672.4,
+        658.1569230769231,
+        666.62,
+        673.7938461538463,
+        708.0661538461537,
+        608.9076923076923,
+        641.5338461538461,
+        636.4830769230771
+      ]
+    }
+  ]
+}

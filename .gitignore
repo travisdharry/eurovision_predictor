@@ -1,9 +1,13 @@
+# Custom
+.DS_Store
+scripts/archive/
+outputs/archive/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
-.DS_Store
-/data
+/data/unused/
 
 # C extensions
 *.so

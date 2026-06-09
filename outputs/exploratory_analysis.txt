@@ -1,0 +1,51 @@
+=== QUALIFICATION RATES BY TIER ===
+
+Tier 1:
+  Total countries: 130
+  Overall qualification rate: 100.0%
+  Semi-finalist qualification rate: 100.0%
+  Average final score (all): 237.7
+  Average final score (qualifiers): 237.7
+
+Tier 2:
+  Total countries: 130
+  Overall qualification rate: 99.2%
+  Semi-finalist qualification rate: 99.2%
+  Average final score (all): 165.6
+  Average final score (qualifiers): 166.9
+
+Tier 3:
+  Total countries: 266
+  Overall qualification rate: 27.8%
+  Semi-finalist qualification rate: 27.8%
+  Average final score (all): 26.3
+  Average final score (qualifiers): 93.0
+
+=== AVERAGE FINAL SCORE (QUALIFIERS) BY FINISHING PLACE ===
+
+Place 1: 566.6
+Place 2: 458.1
+Place 3: 386.3
+Place 4: 331.8
+Place 5: 296.1
+Place 6: 261.1
+Place 7: 242.4
+Place 8: 218.1
+Place 9: 201.0
+Place 10: 178.8
+Place 11: 161.2
+Place 12: 149.3
+Place 13: 139.8
+Place 14: 130.4
+Place 15: 122.8
+Place 16: 115.2
+Place 17: 102.1
+Place 18: 93.1
+Place 19: 87.2
+Place 20: 81.4
+Place 21: 75.0
+Place 22: 62.5
+Place 23: 47.0
+Place 24: 32.8
+Place 25: 16.8
+Place 26: 10.2

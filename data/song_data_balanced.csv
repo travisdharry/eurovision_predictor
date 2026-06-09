@@ -1,0 +1,527 @@
+year,country,final_televote_points,final_jury_points,final_total_points,is_champion,direct_qualifier_10,qualified_10,artist_name,song_name,language,style,semi_final,semi_draw_position,final_draw_position,final_place,gender,main_singers,age,selection,key,BPM,energy,danceability,happiness,loudness,acousticness,instrumentalness,liveness,speechiness,release_date,key_change_10,backing_dancers,backing_singers,backing_instruments,instrument_10,final_televote_votes,final_jury_votes,semi_place,semi_televote_points,semi_jury_points,semi_total_points,favourite_10,race,host_10
+2023,Sweden,243,340,583,1,0,1,Loreen,Tattoo,English,Pop,1,11,9,1.0,Female,1,unknown,unknown,Eb Minor,150,78,55,30,6 dB,24,0,12,8,unknown,unknown,0,0,0,0,36.0,36.0,2.0,135.0,,135.0,1,unknown,0
+2023,Finland,376,150,526,0,0,1,K‰‰rij‰,Cha Cha Cha,Finnish,Pop,1,15,13,2.0,Male,1,unknown,unknown,D Major,155,79,72,74,6 dB,0,0,11,4,unknown,unknown,4,0,0,0,37.0,22.0,1.0,177.0,,177.0,0,unknown,0
+2023,Israel,185,177,362,0,0,1,Noa Kirel,Unicorn,English,Pop,1,9,23,3.0,Female,1,unknown,unknown,Fs Minor,130,87,68,28,5 dB,2,0,32,10,unknown,unknown,5,0,0,0,30.0,25.0,3.0,127.0,,127.0,0,unknown,0
+2023,Italy,174,176,350,0,1,1,Marco Mengoni,Due vite,Italian,Ballad,1,-,11,4.0,Male,1,unknown,unknown,D Major,117,54,64,13,6 dB,40,0,9,3,unknown,unknown,2,0,0,0,29.0,27.0,,,,125.5,0,unknown,0
+2023,Norway,216,52,268,0,0,1,Alessandra,Queen of Kings,English,Pop,1,1,20,5.0,Female,1,unknown,unknown,E Minor,110,36,64,23,10 dB,58,0,10,3,unknown,unknown,4,0,0,0,36.0,11.0,6.0,102.0,,102.0,0,unknown,0
+2023,Ukraine,189,54,243,0,1,1,Tvorchi,Heart of Steel,"English, Ukrainian",Pop,1,-,19,6.0,Male,1,unknown,unknown,Ab Minor,78,52,53,34,8 dB,1,0,9,5,unknown,unknown,2,0,1,0,28.0,10.0,,,,125.5,0,unknown,0
+2023,Belgium,55,127,182,0,0,1,Gustaph,Because of You,English,Pop,2,5,16,7.0,Male,1,unknown,unknown,C Minor,127,91,74,7,6 dB,0,82,10,4,unknown,unknown,1,3,0,0,13.0,22.0,8.0,90.0,,90.0,0,unknown,0
+2023,Estonia,22,146,168,0,0,1,Alika,Bridges,English,Ballad,2,4,12,8.0,Female,1,unknown,unknown,C Minor,140,47,59,33,5 dB,84,0,14,3,unknown,unknown,0,0,0,1,4.0,22.0,10.0,74.0,,74.0,0,unknown,0
+2023,Australia,21,130,151,0,0,1,Voyager,Promise,English,Rock,2,16,15,9.0,Male,1,unknown,unknown,C Major,122,70,62,33,8 dB,0,0,10,7,unknown,unknown,0,0,4,0,6.0,23.0,1.0,149.0,,149.0,0,unknown,0
+2023,Czech Republic,35,94,129,0,0,1,Vesna,My Sister's Crown,"English,†Ukrainian,†Czech,†Bulgarian",Pop,1,13,14,10.0,Female,6,unknown,unknown,E Minor,150,92,55,51,6 dB,5,0,37,16,unknown,unknown,0,0,0,0,12.0,18.0,4.0,110.0,,110.0,0,unknown,0
+2023,Lithuania,46,81,127,0,0,1,Monika Linkyte,Stay,English,Ballad,2,15,22,11.0,Female,1,unknown,unknown,B Major,98,55,40,18,7 dB,3,0,8,4,unknown,unknown,0,4,0,0,8.0,15.0,4.0,110.0,,110.0,0,unknown,0
+2023,Cyprus,58,68,126,0,0,1,Andrew Lambrou,Break a Broken Heart,English,Ballad,2,6,7,12.0,Male,1,unknown,unknown,Eb Minor,130,74,43,43,4 dB,6,0,19,4,unknown,unknown,0,0,0,0,11.0,17.0,7.0,94.0,,94.0,0,unknown,0
+2023,Croatia,112,11,123,0,0,0,Let 3,Mama äC!,Croatian,Pop,1,7,25,13.0,Male,1,unknown,unknown,C Major,135,78,60,63,7 dB,16,0,21,9,unknown,unknown,0,4,0,0,20.0,2.0,8.0,76.0,,76.0,0,unknown,0
+2023,Armenia,53,69,122,0,0,1,Brunette,Future Lover,"English,†Armenian",Ballad,2,2,17,14.0,Female,1,unknown,unknown,D Minor,103,44,56,24,11 dB,89,0,10,4,unknown,unknown,0,0,0,0,10.0,15.0,6.0,99.0,,99.0,0,unknown,0
+2023,Austria,16,104,120,0,0,1,Teya†and†Salena,Who the Hell Is Edgar?,English,Pop,2,13,1,15.0,Female,2,unknown,unknown,B Minor,146,64,69,51,8 dB,2,0,10,6,unknown,unknown,4,0,0,0,4.0,18.0,2.0,137.0,,137.0,0,unknown,0
+2023,France,50,54,104,0,1,1,La Zarra,…videmment,French,Ballad,2,-,6,16.0,Female,1,unknown,unknown,B Major,120,75,73,23,5 dB,12,0,8,7,unknown,unknown,0,0,0,0,17.0,10.0,,,,125.5,0,unknown,0
+2023,Spain,5,95,100,0,1,1,Blanca Paloma,Eaea,Spanish,Traditional,2,-,8,17.0,Female,1,unknown,unknown,F Minor,116,73,61,26,4 dB,7,0,39,4,unknown,unknown,5,0,0,0,2.0,21.0,,,,125.5,0,unknown,0
+2023,Moldova,76,20,96,0,0,1,Pasha Parfeni,Soarele si luna,Romanian,Traditional,1,10,18,18.0,Male,1,unknown,unknown,Ab Major,125,86,62,34,5 dB,36,0,18,14,unknown,unknown,0,2,3,0,17.0,4.0,5.0,109.0,,109.0,0,unknown,0
+2023,Poland,81,12,93,0,0,1,Blanka,Solo,English,Pop,2,9,4,19.0,Female,1,unknown,unknown,B Minor,99,64,90,72,7 dB,18,0,12,4,unknown,unknown,4,0,0,0,17.0,5.0,3.0,124.0,,124.0,0,unknown,0
+2023,Switzerland,31,61,92,0,0,1,Remo Forrer,Watergun,English,Ballad,1,8,3,20.0,Male,1,unknown,unknown,Ab Minor,130,87,68,39,5 dB,48,0,18,7,unknown,unknown,4,0,0,0,10.0,15.0,7.0,97.0,,97.0,0,unknown,0
+2023,Slovenia,45,33,78,0,0,1,Joker Out,Carpe Diem,Slovene,Rock,2,10,24,21.0,Male,1,unknown,unknown,Cs Minor,132,66,69,56,9 dB,1,0,10,4,unknown,unknown,0,0,4,0,11.0,6.0,5.0,103.0,,103.0,0,unknown,0
+2023,Albania,59,17,76,0,0,1,Albina†and Familja Kelmendi,Duje,Albanian,Traditional,2,14,10,22.0,Female,1,unknown,unknown,D Minor,110,80,64,43,6 dB,5,0,13,19,unknown,unknown,0,5,0,0,10.0,4.0,9.0,83.0,,83.0,0,unknown,0
+2023,Portugal,16,43,59,0,0,1,Mimicat,Ai coraÁ„o,Portuguese,Pop,1,5,2,23.0,Female,1,unknown,unknown,Fs Minor,145,63,66,77,8 dB,31,0,16,5,unknown,unknown,4,0,0,0,3.0,9.0,9.0,74.0,,74.0,0,unknown,0
+2023,Serbia,16,14,30,0,0,1,Luke Black,Samo mi se spava,"Serbian, English",Pop,1,3,5,24.0,Male,1,unknown,unknown,A Major,103,70,56,11,10 dB,4,2,32,5,unknown,unknown,4,0,0,0,4.0,6.0,10.0,37.0,,37.0,0,unknown,0
+2023,United Kingdom,9,15,24,0,1,1,Mae Muller,I Wrote a Song,English,Pop,2,-,26,25.0,Female,1,unknown,unknown,A Minor,125,89,71,86,4 dB,4,0,8,5,unknown,unknown,0,4,0,0,2.0,5.0,,,,125.5,0,unknown,1
+2023,Germany,15,3,18,0,1,1,Lord of the Lost,Blood & Glitter,English,Rock,1,-,21,26.0,Male,1,unknown,unknown,A Minor,139,80,64,47,4 dB,1,0,5,8,unknown,unknown,0,0,4,1,3.0,2.0,,,,125.5,0,unknown,0
+2023,Malta,0,0,0,0,0,0,The Busker,Dance (Our Own Party),English,Pop,1,2,,,Male,1,unknown,unknown,F Minor,103,78,70,82,6 dB,2,0,18,4,unknown,unknown,0,0,2,0,,,15.0,3.0,,3.0,0,unknown,0
+2023,Latvia,0,0,0,0,0,0,Sudden Lights,Aija,English,Rock,1,4,,,Male,1,unknown,unknown,A Minor,160,55,56,40,8 dB,5,0,8,7,unknown,unknown,0,0,3,0,,,11.0,34.0,,34.0,0,unknown,0
+2023,Ireland,0,0,0,0,0,0,Wild Youth,We Are One,English,Rock,1,6,,,Male,1,unknown,unknown,D Major,112,66,47,12,7 dB,6,0,9,3,unknown,unknown,0,0,3,0,,,12.0,10.0,,10.0,0,unknown,0
+2023,Azerbaijan,0,0,0,0,0,0,TuralTuranX,Tell Me More,English,Pop,1,12,,,Male,2,unknown,unknown,D Major,96,75,71,42,8 dB,2,0,29,4,unknown,unknown,0,0,0,1,,,14.0,4.0,,4.0,0,unknown,0
+2023,Netherlands,0,0,0,0,0,0,Mia Nicolai†and†Dion Cooper,Burning Daylight,English,Ballad,1,14,,,Mix,2,unknown,unknown,Eb Major,71,43,28,29,9 dB,58,0,11,4,unknown,unknown,0,0,0,0,,,13.0,7.0,,7.0,0,unknown,0
+2023,Denmark,0,0,0,0,0,0,Reiley,Breaking My Heart,English,Pop,2,1,,,Male,1,unknown,unknown,D Major,194,75,59,57,5 dB,5,0,10,36,unknown,unknown,0,0,0,0,,,14.0,6.0,,6.0,0,unknown,0
+2023,Romania,0,0,0,0,0,0,Theodor Andrei,D.G.T. (Off and On),"Romanian, English",Pop,2,3,,,Male,1,unknown,unknown,A Minor,110,75,68,84,6 dB,22,0,25,3,unknown,unknown,0,0,0,1,,,15.0,0.0,,0.0,0,unknown,0
+2023,Iceland,0,0,0,0,0,0,Dilj·,Power,English,Pop,2,7,,,Female,1,unknown,unknown,F Minor,160,73,41,27,5 dB,1,0,20,5,unknown,unknown,0,0,0,0,,,11.0,44.0,,44.0,0,unknown,0
+2023,Greece,0,0,0,0,0,0,Victor Vernicos,What They Say,English,Pop,2,8,,,Male,1,unknown,unknown,C Major,154,55,40,27,6 dB,31,0,28,11,unknown,unknown,0,0,0,0,,,13.0,14.0,,14.0,0,unknown,0
+2023,Georgia,0,0,0,0,0,0,Iru,Echo,English,Ballad,2,11,,,Female,1,unknown,unknown,G Minor,145,91,59,37,4 dB,11,2,30,14,unknown,unknown,0,0,0,0,,,12.0,33.0,,33.0,0,unknown,0
+2023,San Marino,0,0,0,0,0,0,Piqued Jacks,Like an Animal,English,Rock,2,12,,,Male,1,unknown,unknown,C Major,128,79,54,64,6 dB,0,0,21,4,unknown,unknown,0,0,3,0,,,16.0,0.0,,0.0,0,unknown,0
+2022,Ukraine,439,192,631,1,0,1,Kalush Orchestra,Stefania,Ukrainian,Traditional,1,6,12,1.0,Male,1,unknown,unknown,D Major,105,82,83,32,5 dB,14,0,12,4,unknown,unknown,1,2,2,0,39.0,26.0,1.0,202.0,135.0,337.0,1,unknown,0
+2022,United Kingdom,183,283,466,0,1,1,Sam Ryder,Space Man,English,Pop,2,-,22,2.0,Male,1,unknown,unknown,B Major,80,83,47,33,2 dB,18,0,10,5,unknown,unknown,0,0,2,1,34.0,35.0,,,,224.0,0,unknown,0
+2022,Spain,228,231,459,0,1,1,Chanel,SloMo,"Spanish, English",Pop,1,-,10,3.0,Female,1,unknown,unknown,Cs Minor,105,81,73,59,3 dB,13,0,9,6,unknown,unknown,5,0,0,0,38.0,34.0,,,,224.0,0,unknown,0
+2022,Sweden,180,258,438,0,0,1,Cornelia Jakobs,Hold Me Closer,English,Ballad,2,17,20,4.0,Female,1,unknown,unknown,Fs Major,97,62,49,17,8 dB,11,0,14,4,unknown,unknown,0,0,0,0,33.0,33.0,1.0,174.0,222.0,396.0,0,unknown,0
+2022,Serbia,225,87,312,0,0,1,Konstrakta,In corpore sano,"Serbian,†Latin",Traditional,2,3,24,5.0,Female,1,unknown,unknown,C Major,136,71,92,63,7 dB,1,0,17,8,unknown,unknown,5,0,0,0,34.0,15.0,3.0,174.0,63.0,237.0,0,unknown,0
+2022,Italy,110,158,268,0,1,1,Mahmood†and†Blanco,Brividi,Italian,Ballad,2,-,9,6.0,Male,2,unknown,unknown,G Major,123,61,52,34,4 dB,45,0,25,3,unknown,unknown,0,0,1,0,23.0,26.0,,,,224.0,0,unknown,1
+2022,Moldova,239,14,253,0,0,1,Zdob si Zdub†and†Advahov Brothers,Trenuletul,"Romanian, English",Traditional,1,9,19,7.0,Male,1,unknown,unknown,C Major,142,88,70,96,3 dB,41,0,32,14,unknown,unknown,0,0,5,0,35.0,4.0,8.0,135.0,19.0,154.0,0,unknown,0
+2022,Greece,57,158,215,0,0,1,Amanda Georgiadi Tenfjord,Die Together,English,Ballad,1,15,17,8.0,Female,1,unknown,unknown,F Major,150,37,48,20,8 dB,12,0,13,7,unknown,unknown,0,0,0,0,9.0,26.0,3.0,60.0,151.0,211.0,0,unknown,0
+2022,Portugal,36,171,207,0,0,1,Maro,"Saudade, saudade","English,†Portuguese",Ballad,1,10,3,9.0,Female,6,unknown,unknown,Bb Minor,83,34,64,38,11 dB,68,0,11,4,unknown,unknown,0,0,0,0,9.0,29.0,4.0,87.0,121.0,208.0,0,unknown,0
+2022,Norway,146,36,182,0,0,1,Subwoolfer,Give That Wolf a Banana,English,Pop,1,16,7,10.0,Male,2,unknown,unknown,G Minor,124,53,74,55,10 dB,20,0,9,4,unknown,unknown,4,0,0,0,32.0,10.0,6.0,104.0,73.0,177.0,0,unknown,0
+2022,Netherlands,42,129,171,0,0,1,S10,De diepte,Dutch,Ballad,1,8,11,11.0,Female,1,unknown,unknown,D Minor,87,48,32,15,6 dB,39,0,14,3,unknown,unknown,0,0,0,0,12.0,25.0,2.0,79.0,142.0,221.0,0,unknown,0
+2022,Poland,105,46,151,0,0,1,Ochman,River,English,Ballad,2,14,23,12.0,Male,1,unknown,unknown,Ab Major,140,67,51,33,5 dB,56,0,12,4,unknown,unknown,4,0,0,0,22.0,9.0,6.0,114.0,84.0,198.0,0,unknown,0
+2022,Estonia,98,43,141,0,0,1,Stefan,Hope,English,Pop,2,12,25,13.0,Male,1,unknown,unknown,Bb Minor,123,78,52,55,5 dB,19,0,10,4,unknown,unknown,0,0,0,1,19.0,8.0,5.0,96.0,113.0,209.0,0,unknown,0
+2022,Lithuania,93,35,128,0,0,1,Monika Liu,Sentimentai,Lithuanian,Ballad,1,3,14,14.0,Female,1,unknown,unknown,C Major,93,56,68,50,8 dB,9,0,31,3,unknown,unknown,0,0,0,0,21.0,10.0,7.0,103.0,56.0,159.0,0,unknown,0
+2022,Australia,2,123,125,0,0,1,Sheldon Riley,Not the Same,English,Ballad,2,8,21,15.0,Male,1,unknown,unknown,Bb Minor,128,43,36,38,10 dB,66,0,14,4,unknown,unknown,0,0,0,0,1.0,23.0,2.0,74.0,169.0,243.0,0,unknown,0
+2022,Azerbaijan,3,103,106,0,0,1,Nadir Rustamli,Fade to Black,English,Ballad,2,4,15,16.0,Male,1,unknown,unknown,A Minor,79,30,34,30,10 dB,19,0,14,6,unknown,unknown,1,0,0,0,1.0,19.0,10.0,0.0,96.0,96.0,0,unknown,0
+2022,Switzerland,0,78,78,0,0,1,Marius Bear,Boys Do Cry,English,Ballad,1,4,5,17.0,Male,1,unknown,unknown,F Major,116,18,42,39,11 dB,87,0,11,4,unknown,unknown,0,0,0,0,0.0,21.0,9.0,11.0,107.0,118.0,0,unknown,0
+2022,Romania,53,12,65,0,0,1,WRS,Llamame,"English,†Spanish",Pop,2,13,2,18.0,Male,1,unknown,unknown,F Minor,120,76,76,66,6 dB,6,0,15,13,unknown,unknown,4,0,0,0,12.0,3.0,9.0,100.0,18.0,118.0,0,unknown,0
+2022,Belgium,5,59,64,0,0,1,Jeremie Makiese,Miss You,English,Pop,2,16,16,19.0,Male,1,unknown,unknown,Fs Minor,144,53,63,28,6 dB,24,0,13,5,unknown,unknown,4,0,0,0,2.0,13.0,8.0,46.0,105.0,151.0,0,unknown,0
+2022,Armenia,21,40,61,0,0,1,Rosa Linn,Snap,English,Ballad,1,17,8,20.0,Female,1,unknown,unknown,C Major,170,64,56,53,8 dB,11,0,45,6,unknown,unknown,0,0,0,1,4.0,10.0,5.0,105.0,82.0,187.0,0,unknown,0
+2022,Finland,26,12,38,0,0,1,The Rasmus,Jezebel,English,Rock,2,1,4,21.0,Male,1,unknown,unknown,B Minor,116,87,50,49,4 dB,0,0,8,4,unknown,unknown,0,0,3,0,8.0,3.0,7.0,99.0,63.0,162.0,0,unknown,0
+2022,Czech Republic,5,33,38,0,0,1,We Are Domi,Lights Off,English,Dance,2,18,1,22.0,Female,1,unknown,unknown,A Minor,126,79,59,52,6 dB,15,0,21,11,unknown,unknown,0,0,2,0,1.0,11.0,4.0,125.0,102.0,227.0,0,unknown,0
+2022,Iceland,10,10,20,0,0,1,Systur,Meo aekkandi sol,Icelandic,Traditional,1,14,18,23.0,Female,3,unknown,unknown,D Minor,100,52,58,35,12 dB,58,4,7,3,unknown,unknown,0,0,1,1,2.0,4.0,10.0,39.0,64.0,103.0,0,unknown,0
+2022,France,8,9,17,0,1,1,Alvan†and†Ahez,Fulenn,Breton,Traditional,1,-,6,24.0,Mix,4,unknown,unknown,Fs Major,120,84,74,48,7 dB,1,0,24,12,unknown,unknown,1,0,0,1,6.0,3.0,,,,224.0,0,unknown,0
+2022,Germany,6,0,6,0,1,1,Malik Harris,Rockstars,English,Ballad,2,-,13,25.0,Male,1,unknown,unknown,G Major,81,64,65,52,6 dB,45,0,38,23,unknown,unknown,0,0,0,1,3.0,0.0,,,,224.0,0,unknown,0
+2022,Albania,0,0,0,0,0,0,Ronela Hajati,Sekret,"Albanian, English",Pop,1,1,-,,Female,1,unknown,unknown,F Minor,100,70,76,45,6 dB,5,0,52,5,unknown,unknown,5,0,0,0,,,12.0,46.0,12.0,58.0,0,unknown,0
+2022,Latvia,0,0,0,0,0,0,Citi Zeni,Eat Your Salad,English,Pop,1,2,-,,Male,1,unknown,unknown,B Minor,115,69,75,59,8 dB,1,0,34,17,unknown,unknown,0,0,4,0,,,14.0,16.0,39.0,55.0,0,unknown,0
+2022,Slovenia,0,0,0,0,0,0,LPS,Disko,Slovene,Pop,1,5,-,,Male,1,unknown,unknown,E Minor,120,61,68,60,6 dB,0,0,5,3,unknown,unknown,0,0,4,0,,,17.0,8.0,7.0,15.0,0,unknown,0
+2022,Bulgaria,0,0,0,0,0,0,Intelligent Music Project,Intention,English,Rock,1,7,-,,Male,1,unknown,unknown,D Major,80,84,52,72,8 dB,3,2,24,3,unknown,unknown,0,0,5,0,,,16.0,18.0,11.0,29.0,0,unknown,0
+2022,Croatia,0,0,0,0,0,0,Mia Dimsic,Guilty Pleasure,"English,†Croatian",Ballad,1,11,-,,Female,1,unknown,unknown,F Major,84,59,53,51,7 dB,12,0,14,6,unknown,unknown,3,0,0,1,,,11.0,33.0,42.0,75.0,0,unknown,0
+2022,Denmark,0,0,0,0,0,0,Reddi,The Show,English,Rock,1,12,-,,Female,1,unknown,unknown,C Major,90,80,31,21,5 dB,2,0,37,6,unknown,unknown,0,0,3,1,,,13.0,20.0,35.0,55.0,0,unknown,0
+2022,Austria,0,0,0,0,0,0,Lumix†feat.†Pia Maria,Halo,English,Dance,1,13,-,,Female,1,unknown,unknown,Ab Major,150,91,57,69,5 dB,0,0,53,4,unknown,unknown,0,0,0,1,,,15.0,36.0,6.0,42.0,0,unknown,0
+2022,Israel,0,0,0,0,0,0,Michael Ben David,I.M,English,Pop,2,2,-,,Male,1,unknown,unknown,Ab Minor,120,82,70,45,7 dB,1,0,13,6,unknown,unknown,4,0,0,0,,,13.0,27.0,34.0,61.0,0,unknown,0
+2022,Georgia,0,0,0,0,0,0,Circus Mircus,Lock Me In,English,Rock,2,5,-,,Male,1,unknown,unknown,D Major,107,76,79,84,9 dB,0,0,30,4,unknown,unknown,0,0,3,1,,,18.0,9.0,13.0,22.0,0,unknown,0
+2022,Malta,0,0,0,0,0,0,Emma Muscat,I Am What I Am,English,Pop,2,6,-,,Female,1,unknown,unknown,G Major,98,71,56,38,5 dB,4,0,9,3,unknown,unknown,4,0,0,1,,,16.0,20.0,27.0,47.0,0,unknown,0
+2022,San Marino,0,0,0,0,0,0,Achille Lauro,Stripper,"Italian, English",Rock,2,7,-,,Male,1,unknown,unknown,A Major,140,80,60,55,6 dB,0,0,8,10,unknown,unknown,0,0,5,0,,,14.0,29.0,21.0,50.0,0,unknown,0
+2022,Cyprus,0,0,0,0,0,0,Andromache,Ela,"English,†Greek",Pop,2,9,-,,Female,1,unknown,unknown,Eb Minor,98,63,66,65,7 dB,24,0,6,9,unknown,unknown,2,0,0,0,,,12.0,54.0,9.0,63.0,0,unknown,0
+2022,Ireland,0,0,0,0,0,0,Brooke,That's Rich,English,Pop,2,10,-,,Female,1,unknown,unknown,A Major,122,60,68,56,4 dB,0,0,34,3,unknown,unknown,4,0,0,0,,,15.0,35.0,12.0,47.0,0,unknown,0
+2022,North Macedonia,0,0,0,0,0,0,Andrea,Circles,English,Ballad,2,11,-,,Female,1,unknown,unknown,Cs Minor,144,71,54,22,5 dB,48,0,17,3,unknown,unknown,0,0,0,0,,,11.0,20.0,56.0,76.0,0,unknown,0
+2022,Montenegro,0,0,0,0,0,0,Vladana,Breathe,"English, Italian",Ballad,2,15,-,,Female,1,unknown,unknown,G Minor,77,46,43,20,7 dB,55,0,10,3,unknown,unknown,0,0,0,0,,,17.0,22.0,11.0,33.0,0,unknown,0
+2021,Italy,318,206,524,1,1,1,Maneskin,Zitti e buoni,Italian,Rock,1,-,24,1.0,Male,1,unknown,unknown,E Minor,103,94,63,64,3 dB,0,0,42,7,unknown,unknown,0,0,3,0,38.0,28.0,,,,244.5,0,unknown,0
+2021,France,251,248,499,0,1,1,Barbara Pravi,Voila,French,Ballad,1,-,20,2.0,Female,1,unknown,unknown,D Minor,135,34,45,60,9 dB,77,0,30,6,unknown,unknown,0,0,0,0,38.0,33.0,,,,244.5,0,unknown,0
+2021,Switzerland,165,267,432,0,0,1,Gjon's Tears,Tout l'univers,French,Ballad,2,16,11,3.0,Male,1,unknown,unknown,A Minor,123,37,52,19,9 dB,83,0,15,3,unknown,unknown,0,0,0,0,34.0,34.0,1.0,135.0,156.0,291.0,0,unknown,0
+2021,Iceland,180,198,378,0,0,1,Dadi og Gagnamagnio,10 Years,English,Pop,2,8,-,,Male,1,unknown,unknown,D Minor,123,62,80,44,7 dB,1,0,9,4,unknown,unknown,0,2,3,0,29.0,28.0,2.0,148.0,140.0,288.0,0,unknown,0
+2021,Ukraine,267,97,364,0,0,1,Go_A,Shum,Ukrainian,Traditional,1,15,19,5.0,Female,1,unknown,unknown,E Major,118,74,53,50,5 dB,5,0,11,6,unknown,unknown,2,0,3,0,38.0,19.0,2.0,164.0,103.0,267.0,0,unknown,0
+2021,Finland,218,83,301,0,0,1,Blind Channel,Dark Side,English,Rock,2,14,16,6.0,Male,2,unknown,unknown,G Major,98,96,57,44,4 dB,0,0,27,11,unknown,unknown,0,1,3,0,37.0,19.0,5.0,150.0,84.0,234.0,0,unknown,0
+2021,Malta,47,208,255,0,0,1,Destiny,Je me casse,English,Pop,1,16,6,7.0,Female,1,unknown,unknown,Ab Minor,112,87,76,78,4 dB,15,0,28,11,unknown,unknown,4,0,0,0,15.0,35.0,1.0,151.0,174.0,325.0,1,unknown,0
+2021,Lithuania,165,55,220,0,0,1,The Roop,Discoteque,English,Dance,1,1,18,8.0,Male,1,unknown,unknown,F Major,115,80,83,63,6 dB,5,0,13,6,unknown,unknown,2,2,2,0,27.0,12.0,4.0,137.0,66.0,203.0,0,unknown,0
+2021,Russia,100,104,204,0,0,1,Manizha,Russian Woman,"Russian, English",Traditional,1,3,5,9.0,Female,1,unknown,unknown,E Minor,102,70,89,65,7 dB,20,0,7,19,unknown,unknown,0,4,0,0,22.0,21.0,3.0,108.0,117.0,225.0,0,unknown,0
+2021,Greece,79,91,170,0,0,1,Stefania,Last Dance,English,Pop,2,4,10,10.0,Female,1,unknown,unknown,D Minor,147,91,53,39,5 dB,2,0,7,4,unknown,unknown,4,0,0,0,11.0,15.0,6.0,80.0,104.0,184.0,0,unknown,0
+2021,Bulgaria,30,140,170,0,0,1,Victoria,Growing Up Is Getting Old,English,Ballad,2,13,17,11.0,Female,1,unknown,unknown,G Major,93,18,52,25,8 dB,69,0,9,3,unknown,unknown,0,0,0,0,5.0,26.0,3.0,101.0,149.0,250.0,0,unknown,0
+2021,Portugal,27,126,153,0,0,1,The Black Mamba,Love Is on My Side,English,Traditional,2,12,7,12.0,Male,1,unknown,unknown,E Major,66,42,28,24,7 dB,34,0,20,3,unknown,unknown,0,0,4,0,6.0,22.0,4.0,111.0,128.0,239.0,0,unknown,0
+2021,Moldova,62,53,115,0,0,1,Natalia Gordienko,Sugar,English,Pop,2,7,14,13.0,Female,1,unknown,unknown,B Minor,120,76,69,51,7 dB,0,1,13,5,unknown,unknown,4,0,0,0,11.0,6.0,7.0,123.0,56.0,179.0,0,unknown,0
+2021,Sweden,63,46,109,0,0,1,Tusse,Voices,English,Pop,1,4,25,14.0,Male,1,unknown,unknown,Bb Minor,90,76,50,40,5 dB,0,0,13,4,unknown,unknown,4,0,0,0,18.0,10.0,7.0,51.0,91.0,142.0,0,unknown,0
+2021,Serbia,82,20,102,0,0,1,Hurricane,Loco Loco,Serbian,Pop,2,9,8,15.0,Female,3,unknown,unknown,C Major,105,92,65,60,4 dB,17,0,16,12,unknown,unknown,0,0,0,0,12.0,3.0,8.0,68.0,56.0,124.0,0,unknown,0
+2021,Cyprus,44,50,94,0,0,1,Elena Tsagrinou,El Diablo,English,Pop,1,8,1,16.0,Female,1,unknown,unknown,A Minor,114,66,66,62,8 dB,0,0,84,13,unknown,unknown,4,0,0,0,7.0,11.0,6.0,78.0,92.0,170.0,0,unknown,0
+2021,Israel,20,73,93,0,0,1,Eden Alene,Set Me Free,English,Pop,1,12,3,17.0,Female,1,unknown,unknown,Cs Minor,107,66,75,47,7 dB,28,0,10,8,unknown,unknown,4,0,0,0,4.0,17.0,5.0,93.0,99.0,192.0,0,unknown,0
+2021,Norway,60,15,75,0,0,1,Tix,Fallen Angel,English,Pop,1,9,22,18.0,Male,1,unknown,unknown,Cs Major,93,65,54,28,5 dB,7,0,11,3,unknown,unknown,4,0,0,0,16.0,5.0,10.0,77.0,38.0,115.0,0,unknown,0
+2021,Belgium,3,71,74,0,0,1,Hooverphonic,The Wrong Place,English,Ballad,1,11,4,19.0,Female,1,unknown,unknown,F Major,80,73,49,25,4 dB,5,0,16,4,unknown,unknown,0,1,3,0,2.0,17.0,9.0,47.0,70.0,117.0,0,unknown,0
+2021,Azerbaijan,33,32,65,0,0,1,Efendi,Mata Hari,English,Pop,1,14,21,20.0,Female,1,unknown,unknown,E Minor,100,68,71,46,6 dB,1,0,26,4,unknown,unknown,4,0,0,0,12.0,9.0,8.0,91.0,47.0,138.0,0,unknown,0
+2021,Albania,35,22,57,0,0,1,Anxhela Peristeri,Karma,Albanian,Ballad,2,11,2,21.0,Female,1,unknown,unknown,G Minor,150,63,52,19,10 dB,0,0,13,4,unknown,unknown,0,0,0,0,5.0,4.0,10.0,38.0,74.0,112.0,0,unknown,0
+2021,San Marino,13,37,50,0,0,1,Senhit,Adrenalina,English,Dance,2,1,-,,Mix,2,unknown,unknown,Bb Minor,104,89,67,53,6 dB,0,0,39,8,unknown,unknown,4,0,0,0,3.0,7.0,9.0,42.0,76.0,118.0,0,unknown,0
+2021,Netherlands,0,11,23,0,1,1,Jeangu Macrooy,Birth of a New Age,"English,†Sranan Tongo",Ballad,2,-,23,11.0,Male,1,unknown,unknown,C Minor,95,72,72,54,5 dB,48,0,23,6,unknown,unknown,1,2,0,0,0.0,5.0,,,,244.5,0,unknown,1
+2021,Spain,0,6,6,0,1,1,Blas Canto,Voy a quedarme,Spanish,Ballad,1,-,13,24.0,Male,1,unknown,unknown,Eb Major,76,72,52,36,5 dB,21,0,8,5,unknown,unknown,0,0,0,0,0.0,2.0,,,,244.5,0,unknown,0
+2021,Germany,0,3,3,0,1,1,Jendrik,I Don't Feel Hate,English,Pop,2,-,15,25.0,Male,1,unknown,unknown,F Minor,114,84,83,75,5 dB,19,0,3,21,unknown,unknown,1,0,3,0,0.0,2.0,,,,244.5,0,unknown,0
+2021,Slovenia,0,0,0,0,0,0,Ana Soklic,Amen,English,Ballad,1,2,-,,Female,1,unknown,unknown,Ab Minor,81,40,45,21,10 dB,48,0,15,5,unknown,unknown,0,0,0,0,,,13.0,8.0,36.0,44.0,0,unknown,0
+2021,Australia,0,0,0,0,0,0,Montaigne,Technicolour,English,Pop,1,5,-,,Female,1,unknown,unknown,A Minor,119,57,67,27,6 dB,7,0,27,3,unknown,unknown,3,0,0,0,,,14.0,2.0,26.0,28.0,0,unknown,0
+2021,North Macedonia,0,0,0,0,0,0,Vasil,Here I Stand,English,Ballad,1,6,-,,Male,1,unknown,unknown,G Major,138,20,32,13,11 dB,51,0,32,4,unknown,unknown,0,0,0,0,,,15.0,11.0,12.0,23.0,0,unknown,0
+2021,Ireland,0,0,0,0,0,0,Lesley Roy,Maps,English,Pop,1,7,-,,Female,1,unknown,unknown,G Major,143,83,54,55,7 dB,2,0,36,4,unknown,unknown,0,0,0,0,,,16.0,4.0,16.0,20.0,0,unknown,0
+2021,Croatia,0,0,0,0,0,0,Albina,Tick-Tock,"English,†Croatian",Pop,1,10,-,,Female,1,unknown,unknown,E Minor,126,76,77,76,5 dB,5,0,34,4,unknown,unknown,4,0,0,0,,,11.0,53.0,57.0,110.0,0,unknown,0
+2021,Romania,0,0,0,0,0,0,Roxen,Amnesia,English,Ballad,1,13,-,,Female,1,unknown,unknown,Bb Minor,120,69,58,25,6 dB,13,0,16,14,unknown,unknown,5,0,0,0,,,12.0,27.0,58.0,85.0,0,unknown,0
+2021,Estonia,0,0,0,0,0,0,Uku Suviste,The Lucky One,English,Ballad,2,2,-,,Male,1,unknown,unknown,Ab Minor,176,64,40,41,9 dB,4,0,9,7,unknown,unknown,0,0,0,0,,,13.0,29.0,29.0,58.0,0,unknown,0
+2021,Czech Republic,0,0,0,0,0,0,Benny Cristo,Omaga,English,Ballad,2,3,-,,Male,1,unknown,unknown,Fs Major,122,87,72,89,6 dB,11,0,34,3,unknown,unknown,4,0,0,0,,,15.0,0.0,23.0,23.0,0,unknown,0
+2021,Austria,0,0,0,0,0,0,Vincent Bueno,Amen,English,Ballad,2,5,-,,Male,1,unknown,unknown,Cs Major,80,38,44,8,10 dB,1,0,8,4,unknown,unknown,0,0,0,0,,,12.0,13.0,53.0,66.0,0,unknown,0
+2021,Poland,0,0,0,0,0,0,Rafal,The Ride,English,Pop,2,6,-,,Male,1,unknown,unknown,B Minor,132,77,69,93,7 dB,40,0,25,3,unknown,unknown,4,0,0,0,,,14.0,17.0,18.0,35.0,0,unknown,0
+2021,Georgia,0,0,0,0,0,0,Tornike Kipiani,You,English,Ballad,2,10,-,,Male,1,unknown,unknown,C Major,134,37,50,12,8 dB,24,4,19,2,unknown,unknown,0,0,0,0,,,16.0,15.0,1.0,16.0,0,unknown,0
+2021,Latvia,0,0,0,0,0,0,Samanta Tina,The Moon Is Rising,English,Ballad,2,15,-,,Female,1,unknown,unknown,Bb Minor,150,63,66,33,8 dB,4,0,14,14,unknown,unknown,3,0,0,0,,,17.0,10.0,4.0,14.0,0,unknown,0
+2021,Denmark,0,0,0,0,0,0,Fyr og Flamme,Ove os pa hinanden,Danish,Pop,2,17,-,,Male,2,unknown,unknown,C Major,124,87,68,96,6 dB,1,0,34,3,unknown,unknown,0,3,0,1,,,11.0,80.0,9.0,89.0,0,unknown,0
+2021,United Kingdom,0,0,0,0,1,1,James Newman,Embers,English,Pop,2,-,9,26.0,Male,1,unknown,unknown,Fs Major,126,82,68,72,5 dB,0,0,11,6,unknown,unknown,0,0,4,0,0.0,0.0,,,,244.5,0,unknown,0
+2019,Netherlands,261,237,498,1,0,1,Duncan Laurence,Arcade,English,Ballad,2,16,12,1.0,Male,1,unknown,unknown,A Minor,72,33,45,27,13 dB,82,0,14,4,unknown,unknown,0,0,0,1,40.0,32.0,1.0,140.0,140.0,280.0,1,unknown,0
+2019,Italy,253,219,472,0,1,1,Mahmood,Soldi,Italian,Pop,1,-,22,2.0,Male,1,unknown,unknown,Eb Minor,95,59,73,35,10 dB,4,0,31,5,unknown,unknown,3,0,0,0,38.0,32.0,,,,235.0,0,unknown,0
+2019,Russia,244,126,370,0,0,1,Sergey Lazarev,Scream,English,Ballad,2,13,5,3.0,Male,1,unknown,unknown,Bb Major,92,52,33,26,7 dB,9,0,8,4,unknown,unknown,0,0,0,0,30.0,24.0,6.0,124.0,93.0,217.0,0,unknown,0
+2019,Switzerland,212,152,364,0,0,1,Luca Hanni,She Got Me,English,Dance,2,4,24,4.0,Male,1,unknown,unknown,B Minor,97,75,66,48,6 dB,6,0,8,5,unknown,unknown,4,0,0,0,38.0,28.0,4.0,137.0,95.0,232.0,0,unknown,0
+2019,Sweden,93,241,334,0,0,1,John Lundvik,Too Late for Love,English,Ballad,2,8,9,5.0,Male,1,unknown,unknown,C Major,104,75,40,42,4 dB,20,0,7,7,unknown,unknown,0,4,0,0,17.0,32.0,3.0,88.0,150.0,238.0,0,unknown,0
+2019,Norway,291,40,331,0,0,1,KEiiNO,Spirit in the Sky,English,Dance,2,15,15,6.0,Mix,3,unknown,unknown,A Minor,122,75,61,36,6 dB,14,0,11,6,unknown,unknown,0,0,0,0,37.0,9.0,7.0,170.0,40.0,210.0,0,unknown,0
+2019,North Macedonia,58,247,305,0,0,1,Tamara Todevska,Proud,English,Ballad,2,17,8,7.0,Female,1,unknown,unknown,C Minor,92,42,36,28,6 dB,82,0,14,3,unknown,unknown,0,0,0,0,11.0,32.0,2.0,84.0,155.0,239.0,0,unknown,0
+2019,Azerbaijan,100,202,302,0,0,1,Chingiz,Truth,English,Pop,2,18,20,8.0,Male,1,unknown,unknown,Ab Minor,101,62,63,73,7 dB,5,0,10,4,unknown,unknown,0,0,0,0,26.0,33.0,5.0,121.0,103.0,224.0,0,unknown,0
+2019,Australia,131,153,284,0,0,1,Kate Miller-Heidke,Zero Gravity,English,Opera,1,12,25,9.0,Female,1,unknown,unknown,Fs Major,132,54,46,26,2 dB,57,0,41,4,unknown,unknown,2,0,0,0,30.0,24.0,1.0,140.0,121.0,261.0,0,unknown,0
+2019,Iceland,186,46,232,0,0,1,Hatari,Hatrio mun sigra,Icelandic,Dance,1,13,17,10.0,Mix,2,unknown,unknown,E Minor,110,67,57,48,10 dB,0,0,9,8,unknown,unknown,4,0,0,0,34.0,9.0,3.0,151.0,70.0,221.0,0,unknown,0
+2019,Czech Republic,7,150,157,0,0,1,Lake Malawi,Friend of a Friend,English,Pop,1,6,3,11.0,Male,1,unknown,unknown,A Minor,106,74,70,41,5 dB,27,0,7,6,unknown,unknown,0,0,2,0,4.0,26.0,2.0,85.0,157.0,242.0,0,unknown,0
+2019,Denmark,51,69,120,0,0,1,Leonora,Love Is Forever,"English,†French",Pop,2,7,6,12.0,Female,1,unknown,unknown,Db Major,136,42,73,79,5 dB,58,0,7,3,unknown,unknown,2,2,0,0,13.0,16.0,10.0,41.0,53.0,94.0,0,unknown,0
+2019,Cyprus,32,77,109,0,0,1,Tamta,Replay,English,Dance,1,1,11,13.0,Female,1,unknown,unknown,B Minor,102,68,71,50,5 dB,5,0,6,7,unknown,unknown,4,0,0,0,4.0,15.0,9.0,54.0,95.0,149.0,0,unknown,0
+2019,Malta,20,87,107,0,0,1,Michela,Chameleon,English,Pop,2,11,1,14.0,Female,1,unknown,unknown,Bb Minor,98,70,71,85,4 dB,28,0,17,7,unknown,unknown,4,0,0,0,4.0,19.0,8.0,50.0,107.0,157.0,0,unknown,0
+2019,Slovenia,59,46,105,0,0,1,Zala Kralj & Gasper santl,Sebi,Slovene,Ballad,1,5,10,15.0,Mix,2,unknown,unknown,G Minor,108,65,78,74,7 dB,18,2,16,4,unknown,unknown,0,0,0,1,13.0,9.0,6.0,93.0,74.0,167.0,0,unknown,0
+2019,France,38,67,105,0,1,1,Bilal Hassani,Roi,"French, English",Pop,2,-,21,16.0,Female,1,unknown,unknown,Fs Minor,140,67,55,54,7 dB,21,0,12,4,unknown,unknown,2,0,0,0,12.0,18.0,,,,235.0,0,unknown,0
+2019,Albania,47,43,90,0,0,1,Jonida Maliqi,Ktheju tokes,Albanian,Traditional,2,14,2,17.0,Female,1,unknown,unknown,Db Major,117,70,57,58,6 dB,2,0,21,5,unknown,unknown,0,3,0,0,6.0,10.0,9.0,58.0,38.0,96.0,0,unknown,0
+2019,Serbia,54,35,89,0,0,1,Nevena Bozovic,Kruna,Serbian,Ballad,1,9,23,18.0,Female,1,unknown,unknown,Ab Minor,158,48,20,16,6 dB,21,0,13,3,unknown,unknown,0,0,0,0,7.0,8.0,7.0,65.0,91.0,156.0,0,unknown,0
+2019,San Marino,65,12,77,0,0,1,Serhat,Say Na Na Na,English,Dance,1,17,7,19.0,Male,1,unknown,unknown,Db Minor,118,92,68,74,5 dB,0,0,36,8,unknown,unknown,0,5,0,0,11.0,3.0,8.0,124.0,26.0,150.0,0,unknown,0
+2019,Estonia,48,28,76,0,0,1,Victor Crone,Storm,English,Pop,1,14,18,20.0,Male,1,unknown,unknown,D Major,128,59,62,29,5 dB,5,0,8,3,unknown,unknown,0,0,0,1,10.0,7.0,4.0,133.0,65.0,198.0,0,unknown,0
+2019,Greece,24,50,74,0,0,1,Katerine Duska,Better Love,English,Pop,1,16,13,21.0,Female,1,unknown,unknown,Ab Major,88,69,37,35,5 dB,1,0,9,6,unknown,unknown,2,3,0,0,3.0,8.0,5.0,54.0,131.0,185.0,0,unknown,0
+2019,Spain,53,1,54,0,1,1,Miki,La Venda,Spanish,Pop,2,-,26,22.0,Male,1,unknown,unknown,C Minor,148,81,62,80,5 dB,8,0,33,6,unknown,unknown,5,0,0,0,12.0,1.0,,,,235.0,0,unknown,0
+2019,Israel,35,0,35,0,1,1,Kobi Marimi,Home,English,Ballad,1,-,14,23.0,Male,1,unknown,unknown,Ab Major,110,42,55,23,7 dB,70,0,14,4,unknown,unknown,0,5,0,0,7.0,0.0,,,,235.0,0,unknown,1
+2019,Belarus,13,18,31,0,0,1,ZENA,Like It,English,Dance,1,8,19,24.0,Female,1,unknown,unknown,G Minor,105,80,71,35,8 dB,29,0,20,5,unknown,unknown,2,2,0,0,2.0,5.0,10.0,44.0,78.0,122.0,0,unknown,0
+2019,Germany,0,24,24,0,1,1,S!sters,Sister,English,Ballad,2,-,4,25.0,Female,2,unknown,unknown,C Major,142,45,56,22,9 dB,39,0,7,4,unknown,unknown,0,0,0,0,0.0,5.0,,,,235.0,0,unknown,0
+2019,United Kingdom,3,8,11,0,1,1,Michael Rice,Bigger than Us,English,Ballad,1,-,16,26.0,Male,1,unknown,unknown,C Major,82,55,52,57,8 dB,1,0,9,3,unknown,unknown,0,5,0,0,1.0,5.0,,,,235.0,0,unknown,0
+2019,Montenegro,0,0,0,0,0,0,D mol,Heaven,English,Pop,1,2,-,,Mix,6,unknown,unknown,D Major,92,73,53,47,8 dB,21,0,31,5,unknown,unknown,0,0,0,0,,,16.0,15.0,31.0,46.0,0,unknown,0
+2019,Finland,0,0,0,0,0,0,Darude feat. Sebastian Rejman,Look Away,English,Dance,1,3,-,,Male,1,unknown,unknown,B Minor,126,89,50,48,4 dB,1,0,15,5,unknown,unknown,1,0,1,0,,,17.0,14.0,9.0,23.0,0,unknown,0
+2019,Poland,0,0,0,0,0,0,Tulia,Fire of Love,"Polish, English",Traditional,1,4,-,,Female,4,unknown,unknown,A Major,96,78,59,78,4 dB,2,21,64,3,unknown,unknown,0,0,0,0,,,11.0,60.0,60.0,120.0,0,unknown,0
+2019,Hungary,0,0,0,0,0,0,Joci Papai,Az en apam,Hungarian,Ballad,1,7,-,,Male,1,unknown,unknown,Eb Minor,96,45,63,33,8 dB,55,0,10,4,unknown,unknown,0,0,0,0,,,12.0,32.0,65.0,97.0,0,unknown,0
+2019,Belgium,0,0,0,0,0,0,Eliot,Wake Up,English,Ballad,1,10,-,,Male,1,unknown,unknown,G Minor,145,20,37,23,12 dB,89,0,9,4,unknown,unknown,0,0,2,0,,,13.0,20.0,50.0,70.0,0,unknown,0
+2019,Georgia,0,0,0,0,0,0,Oto Nemsadze,Keep on Going,Georgian,Traditional,1,11,-,,Male,1,unknown,unknown,B Minor,120,70,32,30,5 dB,49,0,26,4,unknown,unknown,0,5,0,0,,,14.0,33.0,29.0,62.0,0,unknown,0
+2019,Portugal,0,0,0,0,0,0,Conan Osiris,TelemOveis,Portuguese,Traditional,1,15,-,,Male,1,unknown,unknown,G Major,123,37,71,24,12 dB,62,3,8,5,unknown,unknown,1,0,0,0,,,15.0,43.0,8.0,51.0,0,unknown,0
+2019,Armenia,0,0,0,0,0,0,Srbuk,Walking Out,English,Pop,2,1,-,,Female,1,unknown,unknown,Db Major,130,57,43,17,8 dB,0,23,10,4,unknown,unknown,0,0,0,0,,,16.0,23.0,26.0,49.0,0,unknown,0
+2019,Ireland,0,0,0,0,0,0,Sarah McTernan,22,English,Pop,2,2,-,,Female,1,unknown,unknown,C Major,125,45,71,67,9 dB,12,0,65,5,unknown,unknown,2,0,0,0,,,18.0,3.0,13.0,16.0,0,unknown,0
+2019,Moldova,0,0,0,0,0,0,Anna Odobescu,Stay,English,Ballad,2,3,-,,Female,1,unknown,unknown,C Minor,156,62,42,24,5 dB,29,0,20,3,unknown,unknown,1,0,0,0,,,12.0,27.0,58.0,85.0,0,unknown,0
+2019,Latvia,0,0,0,0,0,0,Carousel,That Night,English,Pop,2,5,-,,Female,1,unknown,unknown,G Minor,93,46,67,51,10 dB,68,0,9,4,unknown,unknown,0,0,3,0,,,15.0,13.0,37.0,50.0,0,unknown,0
+2019,Romania,0,0,0,0,0,0,Ester Peony,On a Sunday,English,Pop,2,6,-,,Female,1,unknown,unknown,C Minor,72,49,35,33,6 dB,13,0,11,6,unknown,unknown,2,2,1,0,,,13.0,24.0,47.0,71.0,0,unknown,0
+2019,Austria,0,0,0,0,0,0,PAENDA,Limits,English,Ballad,2,9,-,,Female,1,unknown,unknown,C Major,131,36,46,18,12 dB,81,0,11,6,unknown,unknown,0,0,0,0,,,17.0,0.0,21.0,21.0,0,unknown,0
+2019,Croatia,0,0,0,0,0,0,Roko,The Dream,"English,†Croatian",Ballad,2,10,-,,Male,1,unknown,unknown,F Minor,114,60,61,24,10 dB,49,61,34,3,unknown,unknown,2,0,0,0,,,14.0,38.0,26.0,64.0,0,unknown,0
+2019,Lithuania,0,0,0,0,0,0,Jurij Veklenko,Run with the Lions,English,Pop,2,12,-,,Male,1,unknown,unknown,C Major,158,64,60,41,7 dB,1,39,8,5,unknown,unknown,0,0,0,0,,,11.0,77.0,16.0,93.0,0,unknown,0
+2018,Israel,317,212,529,1,0,1,Netta,Toy,English,Pop,1,7,22,1.0,Female,1,unknown,unknown,Eb Minor,130,71,79,80,5 dB,7,0,24,7,unknown,unknown,3,0,0,0,39.0,34.0,1.0,116.0,167.0,283.0,1,unknown,0
+2018,Cyprus,253,183,436,0,0,1,Eleni Foureira,Fuego,English,Pop,1,19,25,2.0,Female,1,unknown,unknown,B Minor,101,74,59,52,5 dB,6,0,58,10,unknown,unknown,4,0,0,0,42.0,27.0,2.0,173.0,89.0,262.0,0,unknown,0
+2018,Austria,71,271,342,0,0,1,Cesar Sampson,Nobody but You,English,Pop,1,13,5,3.0,Male,1,unknown,unknown,B Minor,85,51,50,43,6 dB,9,0,36,3,unknown,unknown,0,0,0,0,18.0,34.0,4.0,116.0,115.0,231.0,0,unknown,0
+2018,Germany,136,204,340,0,1,1,Michael Schulte,You Let Me Walk Alone,English,Pop,2,-,11,4.0,Male,1,unknown,unknown,B Major,75,28,45,42,10 dB,78,0,10,3,unknown,unknown,0,0,0,0,29.0,30.0,,,,233.5,0,unknown,0
+2018,Italy,249,59,308,0,1,1,Ermal Meta†&†Fabrizio Moro,Non mi avete fatto niente,Italian,Pop,2,-,26,5.0,Male,2,unknown,unknown,Fs Major,90,88,57,76,5 dB,34,0,16,5,unknown,unknown,0,0,0,0,35.0,11.0,,,,233.5,0,unknown,0
+2018,Czech Republic,215,66,281,0,0,1,Mikolas Josef,Lie to Me,English,Pop,1,5,14,6.0,Male,1,unknown,unknown,Fs Minor,106,70,83,64,6 dB,0,0,36,12,unknown,unknown,2,0,0,0,35.0,16.0,3.0,134.0,98.0,232.0,0,unknown,0
+2018,Sweden,21,253,274,0,0,1,Benjamin Ingrosso,Dance You Off,English,Pop,2,15,20,7.0,Male,1,unknown,unknown,Ab Major,109,69,73,76,5 dB,10,0,11,7,unknown,unknown,0,0,0,0,7.0,35.0,2.0,83.0,171.0,254.0,0,unknown,0
+2018,Estonia,102,143,245,0,0,1,Elina Nechayeva,La forza,Italian,Opera,1,9,6,8.0,Female,1,unknown,unknown,D Minor,94,60,23,26,8 dB,50,0,27,4,unknown,unknown,0,0,0,0,19.0,26.0,5.0,120.0,81.0,201.0,0,unknown,0
+2018,Denmark,188,38,226,0,0,1,Rasmussen,Higher Ground,English,Traditional,2,5,15,9.0,Male,1,unknown,unknown,B Minor,82,85,47,42,5 dB,2,0,13,4,unknown,unknown,4,0,0,0,32.0,8.0,5.0,164.0,40.0,204.0,0,unknown,0
+2018,Moldova,115,94,209,0,0,1,DoReDoS,My Lucky Day,English,Pop,2,7,19,10.0,Mix,3,unknown,unknown,B Minor,122,87,74,82,5 dB,1,0,32,7,unknown,unknown,3,0,0,0,23.0,13.0,3.0,153.0,82.0,235.0,0,unknown,0
+2018,Albania,58,126,184,0,0,1,Eugent Bushpepa,Mall,Albanian,Rock,1,3,12,11.0,Male,4,unknown,unknown,E Major,95,76,39,41,6 dB,0,79,12,3,unknown,unknown,0,2,3,0,8.0,20.0,8.0,48.0,114.0,162.0,0,unknown,0
+2018,Lithuania,91,90,181,0,0,1,Ieva Zasimauskaite,When We're Old,English,Ballad,1,6,4,12.0,Female,1,unknown,unknown,Bb Major,90,19,34,4,15 dB,87,85,16,4,unknown,unknown,0,0,0,0,11.0,17.0,9.0,62.0,57.0,119.0,0,unknown,0
+2018,France,59,114,173,0,1,1,Madame Monsieur,Mercy,French,Pop,1,-,13,13.0,Female,1,unknown,unknown,E Minor,97,54,65,17,7 dB,7,0,58,5,unknown,unknown,0,0,1,0,13.0,21.0,,,,233.5,0,unknown,0
+2018,Bulgaria,66,100,166,0,0,1,Equinox,Bones,English,Pop,1,10,18,14.0,Mix,5,unknown,unknown,Fs Minor,88,57,51,43,9 dB,2,39,11,4,unknown,unknown,0,0,0,0,15.0,18.0,7.0,70.0,107.0,177.0,0,unknown,0
+2018,Norway,84,60,144,0,0,1,Alexander Rybak,That's How You Write a Song,English,Pop,2,1,7,15.0,Male,1,unknown,unknown,Bb Minor,104,61,74,96,10 dB,1,0,6,5,unknown,unknown,4,0,0,1,18.0,12.0,1.0,133.0,133.0,266.0,0,unknown,0
+2018,Ireland,62,74,136,0,0,1,Ryan O'Shaughnessy,Together,English,Traditional,1,18,24,16.0,Male,1,unknown,unknown,F Major,94,32,70,28,13 dB,73,0,12,4,unknown,unknown,2,0,1,1,14.0,19.0,6.0,108.0,71.0,179.0,0,unknown,0
+2018,Ukraine,119,11,130,0,0,1,Melovin,Under the Ladder,English,Dance,2,18,1,17.0,Male,1,unknown,unknown,Bb Minor,140,74,53,33,8 dB,0,92,10,3,unknown,unknown,0,4,0,1,18.0,2.0,6.0,114.0,65.0,179.0,0,unknown,0
+2018,Netherlands,32,89,121,0,0,1,Waylon,Outlaw in 'Em,English,Rock,2,8,23,18.0,Male,1,unknown,unknown,B Minor,87,88,58,73,6 dB,6,0,34,5,unknown,unknown,0,0,4,1,7.0,18.0,7.0,47.0,127.0,174.0,0,unknown,0
+2018,Serbia,75,38,113,0,0,1,Sanja Ilic†&†Balkanika,Nova deca,Serbian,Traditional,2,3,10,19.0,Mix,2,unknown,unknown,B Minor,125,87,38,30,4 dB,8,0,30,11,unknown,unknown,1,2,1,0,9.0,6.0,9.0,72.0,45.0,117.0,0,unknown,0
+2018,Australia,9,90,99,0,0,1,Jessica Mauboy,We Got Love,English,Pop,2,9,16,20.0,Female,1,unknown,unknown,G Major,114,82,61,30,4 dB,0,0,23,7,unknown,unknown,0,0,0,0,3.0,17.0,4.0,82.0,130.0,212.0,0,unknown,0
+2018,Hungary,65,28,93,0,0,1,AWS,Viszlat nyar,Hungarian,Rock,2,13,21,21.0,Male,1,unknown,unknown,Eb Minor,164,94,33,34,3 dB,0,0,19,6,unknown,unknown,0,0,4,0,15.0,7.0,10.0,88.0,23.0,111.0,0,unknown,0
+2018,Slovenia,23,41,64,0,0,1,Lea Sirk,"Hvala, ne!",Slovene,Pop,2,17,3,22.0,Female,1,unknown,unknown,Db Major,140,60,81,36,8 dB,1,0,10,5,unknown,unknown,4,0,0,0,4.0,12.0,8.0,65.0,67.0,132.0,0,unknown,0
+2018,Spain,18,43,61,0,1,1,Amaia†&†Alfred,Tu canciOn,Spanish,Pop,2,-,2,23.0,Mix,2,unknown,unknown,C Major,120,31,48,26,8 dB,87,0,10,3,unknown,unknown,0,0,0,0,3.0,10.0,,,,233.5,0,unknown,0
+2018,United Kingdom,25,23,48,0,1,1,SuRie,Storm,English,Pop,1,-,9,24.0,Female,1,unknown,unknown,Bb Major,116,72,65,38,7 dB,2,0,22,4,unknown,unknown,0,0,0,0,7.0,6.0,,,,233.5,0,unknown,0
+2018,Finland,23,23,46,0,0,1,Saara Aalto,Monsters,English,Pop,1,15,17,25.0,Female,1,unknown,unknown,C Minor,122,73,58,27,4 dB,1,0,6,4,unknown,unknown,4,0,0,0,4.0,6.0,10.0,73.0,35.0,108.0,0,unknown,0
+2018,Portugal,18,21,39,0,1,1,Claudia Pascoal,O jardim,Portuguese,Pop,1,-,8,26.0,Female,1,unknown,unknown,Bb Major,120,31,50,10,10 dB,84,0,28,4,unknown,unknown,0,1,0,0,2.0,5.0,,,,233.5,0,unknown,1
+2018,Azerbaijan,0,0,0,0,0,0,Aisel,X My Heart,English,Pop,1,1,-,,Female,1,unknown,unknown,Ab Major,120,77,52,27,10 dB,0,80,14,3,unknown,unknown,4,0,0,0,,,11.0,47.0,47.0,94.0,0,unknown,0
+2018,Iceland,0,0,0,0,0,0,Ari Olafsson,Our Choice,English,Ballad,1,2,-,,Male,1,unknown,unknown,B Major,130,49,48,7,10 dB,0,92,31,3,unknown,unknown,0,5,0,0,,,19.0,0.0,15.0,15.0,0,unknown,0
+2018,Belgium,0,0,0,0,0,0,Sennek,A Matter of Time,English,Pop,1,4,-,,Female,1,unknown,unknown,C Minor,88,59,66,59,6 dB,12,0,20,3,unknown,unknown,0,0,0,0,,,12.0,20.0,71.0,91.0,0,unknown,0
+2018,Belarus,0,0,0,0,0,0,Alekseev,Forever,English,Ballad,1,8,-,,Male,1,unknown,unknown,A Minor,117,59,38,41,5 dB,60,0,20,4,unknown,unknown,1,0,0,0,,,16.0,45.0,20.0,65.0,0,unknown,0
+2018,North Macedonia,0,0,0,0,0,0,Eye Cue,Lost and Found,English,Pop,1,11,-,,Female,1,unknown,unknown,Ab Major,120,76,75,56,3 dB,7,6,11,4,unknown,unknown,0,3,2,0,,,18.0,6.0,18.0,24.0,0,unknown,0
+2018,Croatia,0,0,0,0,0,0,Franka,Crazy,English,Pop,1,12,-,,Female,1,unknown,unknown,A Minor,98,41,67,37,8 dB,36,0,63,3,unknown,unknown,0,0,0,0,,,17.0,17.0,46.0,63.0,0,unknown,0
+2018,Greece,0,0,0,0,0,0,Yianna Terzi,Oniro mou,Greek,Pop,1,14,-,,Female,1,unknown,unknown,Db Minor,150,66,42,18,7 dB,2,0,12,4,unknown,unknown,0,0,0,0,,,14.0,53.0,28.0,81.0,0,unknown,0
+2018,Armenia,0,0,0,0,0,0,Sevak Khanagyan,Qami,Armenian,Pop,1,16,-,,Male,1,unknown,unknown,D Minor,75,50,34,23,8 dB,18,0,27,4,unknown,unknown,0,0,0,0,,,15.0,41.0,38.0,79.0,0,unknown,0
+2018,Switzerland,0,0,0,0,0,0,ZiBBZ,Stones,English,Pop,1,17,-,,Female,1,unknown,unknown,A Minor,84,81,49,56,6 dB,4,0,18,5,unknown,unknown,0,0,1,0,,,13.0,27.0,59.0,86.0,0,unknown,0
+2018,Romania,0,0,0,0,0,0,The Humans,Goodbye,English,Pop,2,2,-,,Female,1,unknown,unknown,E Major,101,46,47,10,9 dB,1,84,15,3,unknown,unknown,0,0,5,0,,,11.0,40.0,67.0,107.0,0,unknown,0
+2018,San Marino,0,0,0,0,0,0,Jessika†feat.†Jenifer Brening,Who We Are,English,Pop,2,4,-,,Female,1,unknown,unknown,Ab Minor,127,75,67,61,6 dB,5,0,16,4,unknown,unknown,2,1,0,0,,,17.0,14.0,14.0,28.0,0,unknown,0
+2018,Russia,0,0,0,0,0,0,Julia Samoylova,I Won't Break,English,Pop,2,6,-,,Female,1,unknown,unknown,Ab Minor,91,80,52,11,9 dB,0,81,11,3,unknown,unknown,2,3,0,0,,,15.0,51.0,14.0,65.0,0,unknown,0
+2018,Georgia,0,0,0,0,0,0,Ethno-Jazz Band Iriao,For You,Georgian,Pop,2,10,-,,Male,3,unknown,unknown,A Minor,121,56,27,21,6 dB,55,0,21,4,unknown,unknown,0,0,2,0,,,18.0,13.0,11.0,24.0,0,unknown,0
+2018,Poland,0,0,0,0,0,0,Gromee†feat.†Lukas Meijer,Light Me Up,English,Dance,2,11,-,,Male,1,unknown,unknown,Bb Major,123,74,55,46,6 dB,11,0,14,5,unknown,unknown,1,3,1,0,,,14.0,60.0,21.0,81.0,0,unknown,0
+2018,Malta,0,0,0,0,0,0,Christabelle,Taboo,English,Pop,2,12,-,,Female,1,unknown,unknown,G Major,122,62,64,15,6 dB,20,0,63,4,unknown,unknown,1,0,0,0,0.0,0.0,13.0,8.0,93.0,101.0,0,unknown,0
+2018,Latvia,0,0,0,0,0,0,Laura Rizzotto,Funny Girl,English,Pop,2,14,-,,Female,1,unknown,unknown,C Major,118,52,69,10,6 dB,40,0,13,5,unknown,unknown,0,0,0,0,,,12.0,14.0,92.0,106.0,0,unknown,0
+2018,Montenegro,0,0,0,0,0,0,Vanja Radovanovic,Inje,Montenegrin,Rock,2,16,-,,Male,1,unknown,unknown,Fs Minor,79,45,49,34,6 dB,39,0,55,3,unknown,unknown,4,0,1,0,,,16.0,17.0,23.0,40.0,0,unknown,0
+2017,Portugal,376,382,758,1,0,1,Salvador Sobral,Amar pelos dois,Portuguese,Ballad,1,9,11,1.0,Male,1,unknown,unknown,F Major,88,10,21,17,18 dB,85,0,26,3,unknown,unknown,0,0,0,0,41.0,39.0,1.0,197.0,173.0,370.0,0,unknown,0
+2017,Bulgaria,337,278,615,0,0,1,Kristian Kostov,Beautiful Mess,English,Pop,2,15,25,2.0,Male,1,unknown,unknown,C Minor,126,51,41,21,8 dB,42,0,11,4,unknown,unknown,0,0,0,0,41.0,38.0,1.0,204.0,199.0,403.0,0,unknown,0
+2017,Moldova,264,110,374,0,0,1,Sunstroke Project,"Hey, Mamma!",English,Dance,1,12,7,3.0,Male,1,unknown,unknown,Bb Minor,110,81,83,64,6 dB,24,1,7,11,unknown,unknown,0,3,2,0,38.0,19.0,2.0,180.0,111.0,291.0,0,unknown,0
+2017,Belgium,255,108,363,0,0,1,Blanche,City Lights,English,Pop,1,5,23,4.0,Female,1,unknown,unknown,C Minor,130,45,61,15,9 dB,24,0,21,3,unknown,unknown,0,0,0,0,40.0,21.0,4.0,125.0,40.0,165.0,0,unknown,0
+2017,Sweden,126,218,344,0,0,1,Robin Bengtsson,I Can't Go On,English,Pop,1,1,24,5.0,Male,1,unknown,unknown,E Minor,109,67,74,46,5 dB,3,0,14,5,unknown,unknown,4,0,0,0,35.0,33.0,3.0,103.0,124.0,227.0,0,unknown,0
+2017,Italy,208,126,334,0,1,1,Francesco Gabbani,Occidentali's Karma,Italian,Pop,1,-,9,6.0,Male,1,unknown,unknown,Bb Major,114,83,67,58,4 dB,4,0,11,8,unknown,unknown,1,4,0,0,36.0,20.0,,,,217.0,1,unknown,0
+2017,Romania,224,58,282,0,0,1,Ilinca†ft.†Alex Florea,Yodel It!,English,Pop,2,5,20,7.0,Mix,2,unknown,unknown,Bb Major,174,91,45,77,5 dB,1,0,12,15,unknown,unknown,0,1,0,0,38.0,11.0,6.0,148.0,26.0,174.0,0,unknown,0
+2017,Hungary,152,48,200,0,0,1,Joci Papai,Origo,Hungarian,Traditional,2,7,8,8.0,Male,1,unknown,unknown,A Minor,108,73,55,45,6 dB,58,0,48,22,unknown,unknown,1,0,0,0,33.0,10.0,2.0,165.0,66.0,231.0,0,unknown,0
+2017,Australia,2,171,173,0,0,1,Isaiah,Don't Come Easy,English,Pop,1,3,14,9.0,Male,1,unknown,unknown,B Minor,79,63,33,55,4 dB,26,0,27,5,unknown,unknown,0,0,0,0,1.0,29.0,6.0,21.0,139.0,160.0,0,unknown,0
+2017,Norway,29,129,158,0,0,1,JOWST,Grab the Moment,English,Pop,2,12,17,10.0,Male,1,unknown,unknown,E Minor,104,61,69,32,7 dB,12,0,9,9,unknown,unknown,0,0,3,0,8.0,24.0,5.0,52.0,137.0,189.0,0,unknown,0
+2017,Netherlands,15,135,150,0,0,1,O'G3NE,Lights and Shadows,English,Pop,2,6,6,11.0,Female,3,unknown,unknown,Fs Major,128,73,41,51,5 dB,22,0,14,8,unknown,unknown,0,0,0,0,5.0,25.0,4.0,51.0,149.0,200.0,0,unknown,0
+2017,France,90,45,135,0,1,1,Alma,Requiem,"French, English",Pop,2,-,26,12.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,0,0,24.0,12.0,,,,217.0,0,unknown,0
+2017,Croatia,103,25,128,0,0,1,Jacques Houdek,My Friend,"English,†Italian",Opera,2,11,13,13.0,Male,1,unknown,unknown,C Major,138,65,42,30,6 dB,21,0,17,5,unknown,unknown,0,3,2,0,21.0,6.0,8.0,104.0,37.0,141.0,0,unknown,0
+2017,Azerbaijan,42,78,120,0,0,1,Dihaj,Skeletons,English,Pop,1,8,12,14.0,Female,1,unknown,unknown,Fs Minor,91,65,47,30,7 dB,4,0,10,4,unknown,unknown,1,4,0,0,6.0,14.0,8.0,63.0,87.0,150.0,0,unknown,0
+2017,United Kingdom,12,99,111,0,1,1,Lucie Jones,Never Give Up on You,English,Ballad,1,-,18,15.0,Female,1,unknown,unknown,F Major,128,37,41,25,8 dB,40,0,32,4,unknown,unknown,0,0,0,0,4.0,21.0,,,,217.0,0,unknown,0
+2017,Austria,0,93,93,0,0,1,Nathan Trent,Running on Air,English,Pop,2,2,4,16.0,Male,1,unknown,unknown,A Major,90,54,71,54,5 dB,11,0,23,3,unknown,unknown,0,4,0,0,0.0,24.0,7.0,32.0,115.0,147.0,0,unknown,0
+2017,Belarus,33,50,83,0,0,1,Naviband,Story of My Life,Belarusian,Pop,2,14,3,17.0,Mix,2,unknown,unknown,E Major,155,97,46,43,4 dB,2,0,40,8,unknown,unknown,0,0,0,1,9.0,11.0,9.0,55.0,55.0,110.0,0,unknown,0
+2017,Armenia,21,58,79,0,0,1,Artsvik,Fly with Me,English,Pop,1,16,5,18.0,Female,1,unknown,unknown,E Minor,90,80,58,33,5 dB,79,6,8,15,unknown,unknown,2,0,0,0,5.0,16.0,7.0,65.0,87.0,152.0,0,unknown,0
+2017,Greece,29,48,77,0,0,1,Demy,This Is Love,English,Pop,1,10,15,19.0,Female,1,unknown,unknown,A Minor,128,68,54,22,8 dB,0,0,11,3,unknown,unknown,2,0,0,0,6.0,7.0,10.0,54.0,61.0,115.0,0,unknown,0
+2017,Denmark,8,69,77,0,0,1,Anja,Where I Am,English,Pop,2,8,10,20.0,Female,1,unknown,unknown,Bb Minor,91,75,40,65,5 dB,4,0,49,13,unknown,unknown,0,0,0,0,1.0,14.0,10.0,5.0,96.0,101.0,0,unknown,0
+2017,Cyprus,32,36,68,0,0,1,Hovig,Gravity,English,Pop,1,15,19,21.0,Male,1,unknown,unknown,Bb Minor,75,73,59,72,7 dB,4,0,11,9,unknown,unknown,2,0,0,0,6.0,7.0,5.0,103.0,61.0,164.0,0,unknown,0
+2017,Poland,41,23,64,0,0,1,Kasia Mos,Flashlight,English,Pop,1,11,2,22.0,Female,1,unknown,unknown,D Major,120,68,44,19,6 dB,6,0,37,5,unknown,unknown,0,0,1,0,11.0,7.0,9.0,69.0,50.0,119.0,0,unknown,0
+2017,Israel,5,34,39,0,0,1,IMRI,I Feel Alive,English,Pop,2,18,1,23.0,Male,1,unknown,unknown,C Minor,128,92,69,43,3 dB,2,2,5,5,unknown,unknown,5,0,0,0,3.0,8.0,3.0,132.0,75.0,207.0,0,unknown,0
+2017,Ukraine,24,12,36,0,1,1,O.Torvald,Time,English,Rock,2,-,22,24.0,Male,1,unknown,unknown,Db Minor,102,90,57,31,5 dB,0,0,12,8,unknown,unknown,0,1,4,1,6.0,3.0,,,,217.0,0,unknown,1
+2017,Germany,3,3,6,0,1,1,Levina,Perfect Life,English,Pop,2,-,21,25.0,Female,1,unknown,unknown,Eb Major,124,70,81,52,6 dB,38,0,13,5,unknown,unknown,0,0,0,0,1.0,1.0,,,,217.0,0,unknown,0
+2017,Spain,5,0,5,0,1,1,Manel Navarro,Do It for Your Lover,"Spanish, English",Pop,1,-,16,26.0,Male,1,unknown,unknown,G Major,170,77,66,88,4 dB,1,0,11,5,unknown,unknown,0,0,3,1,1.0,0.0,,,,217.0,0,unknown,0
+2017,Georgia,0,0,0,0,0,0,Tamara Gachechiladze,Keep the Faith,English,Pop,1,2,-,,Female,1,unknown,unknown,G Minor,132,67,27,19,6 dB,15,0,10,6,unknown,unknown,0,0,0,0,,,11.0,37.0,62.0,99.0,0,unknown,0
+2017,Albania,0,0,0,0,0,0,Lindita,World,English,Pop,1,4,-,,Female,1,unknown,unknown,C Major,85,77,42,30,5 dB,14,0,29,4,unknown,unknown,0,4,0,0,,,14.0,38.0,38.0,76.0,0,unknown,0
+2017,Montenegro,0,0,0,0,0,0,Slavko Kalezic,Space,English,Pop,1,6,-,,Male,1,unknown,unknown,A Minor,120,94,58,54,4 dB,1,0,11,9,unknown,unknown,0,0,0,0,,,16.0,39.0,17.0,56.0,0,unknown,0
+2017,Finland,0,0,0,0,0,0,Norma John,Blackbird,English,Ballad,1,7,-,,Female,1,unknown,unknown,D Major,81,33,28,12,11 dB,85,8,14,3,unknown,unknown,0,0,1,0,,,12.0,51.0,41.0,92.0,0,unknown,0
+2017,Iceland,0,0,0,0,0,0,Svala,Paper,English,Pop,1,13,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,0,0,,,15.0,31.0,29.0,60.0,0,unknown,0
+2017,Czech Republic,0,0,0,0,0,0,Martina Barta,My Turn,English,Pop,1,14,-,,Female,1,unknown,unknown,G Major,86,42,36,16,6 dB,44,0,31,4,unknown,unknown,0,0,0,0,,,13.0,2.0,81.0,83.0,0,unknown,0
+2017,Slovenia,0,0,0,0,0,0,Omar Naber,On My Way,English,Ballad,1,17,-,,Male,1,unknown,unknown,D Major,67,55,42,14,6 dB,30,0,52,4,unknown,unknown,0,0,0,0,,,17.0,20.0,16.0,36.0,0,unknown,0
+2017,Latvia,0,0,0,0,0,0,Triana Park,Line,English,Pop,1,18,-,,Female,1,unknown,unknown,Ab Minor,126,64,71,36,7 dB,1,0,19,4,unknown,unknown,0,0,3,0,,,18.0,20.0,1.0,21.0,0,unknown,0
+2017,Serbia,0,0,0,0,0,0,Tijana Bogicevic,In Too Deep,English,Pop,2,1,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,1,0,0,0,,,11.0,45.0,53.0,98.0,0,unknown,0
+2017,North Macedonia,0,0,0,0,0,0,Jana Burceska,Dance Alone,English,Pop,2,3,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,0,0,,,15.0,40.0,29.0,69.0,0,unknown,0
+2017,Malta,0,0,0,0,0,0,Claudia Faniello,Breathlessly,English,Ballad,2,4,-,,Female,1,unknown,unknown,Db Major,76,48,52,19,6 dB,66,0,9,3,unknown,unknown,0,0,0,0,,,16.0,0.0,55.0,55.0,0,unknown,0
+2017,Ireland,0,0,0,0,0,0,Brendan Murray,Dying to Try,English,Ballad,2,9,-,,Male,1,unknown,unknown,F Minor,164,48,44,19,7 dB,63,0,11,3,unknown,unknown,0,0,0,0,,,13.0,41.0,45.0,86.0,0,unknown,0
+2017,San Marino,0,0,0,0,0,0,Valentina Monetta†and†Jimmie Wilson,Spirit of the Night,English,Pop,2,10,-,,Mix,2,unknown,unknown,G Minor,140,94,71,57,4 dB,8,0,12,1,unknown,unknown,3,0,0,0,,,18.0,1.0,0.0,1.0,0,unknown,0
+2017,Switzerland,0,0,0,0,0,0,Timebelle,Apollo,English,Pop,2,13,-,,Female,1,unknown,unknown,Bb Major,87,56,61,28,6 dB,11,0,11,9,unknown,unknown,0,0,2,0,,,12.0,49.0,48.0,97.0,0,unknown,0
+2017,Lithuania,0,0,0,0,0,0,Fusedmarc,Rain of Revolution,English,Pop,2,16,-,,Female,1,unknown,unknown,Db Major,101,79,66,30,5 dB,4,0,12,6,unknown,unknown,0,4,1,0,,,17.0,25.0,17.0,42.0,0,unknown,0
+2017,Estonia,0,0,0,0,0,0,Koit Toome†and†Laura,Verona,English,Pop,2,17,-,,Mix,2,unknown,unknown,D Minor,111,82,61,29,4 dB,1,0,35,3,unknown,unknown,0,0,0,0,,,14.0,69.0,16.0,85.0,0,unknown,0
+2016,Ukraine,323,211,534,1,0,1,Jamala,1944,"English,†Crimean Tatar",Pop,2,14,21,1.0,Female,1,unknown,unknown,Eb Major,120,51,81,47,5 dB,60,1,24,6,unknown,unknown,0,0,0,0,40.0,24.0,2.0,152.0,135.0,287.0,0,unknown,0
+2016,Australia,191,320,511,0,0,1,Dami Im,Sound of Silence,English,Pop,2,10,13,2.0,Female,1,unknown,unknown,E Minor,136,82,52,32,4 dB,34,0,10,7,unknown,unknown,0,0,0,0,37.0,38.0,1.0,142.0,188.0,330.0,0,unknown,0
+2016,Russia,361,130,491,0,0,1,Sergey Lazarev,You Are the Only One,English,Pop,1,9,18,3.0,Male,1,unknown,unknown,B Minor,128,89,63,28,5 dB,4,0,9,6,unknown,unknown,0,0,0,0,41.0,20.0,1.0,194.0,148.0,342.0,1,unknown,0
+2016,Bulgaria,180,127,307,0,0,1,Poli Genova,If Love Was a Crime,"English,†Bulgarian",Dance,2,12,8,4.0,Female,1,unknown,unknown,C Major,110,83,61,52,5 dB,2,0,22,3,unknown,unknown,0,0,0,0,34.0,23.0,5.0,122.0,98.0,220.0,0,unknown,0
+2016,Sweden,139,122,261,0,1,1,Frans,If I Were Sorry,English,Pop,1,-,9,5.0,Male,1,unknown,unknown,A Minor,120,85,73,12,5 dB,16,1,10,5,unknown,unknown,0,0,0,0,29.0,17.0,,,,232.5,0,unknown,1
+2016,France,109,148,257,0,1,1,Amir,J'ai cherche,"French, English",Pop,1,-,11,6.0,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,0,0,26.0,26.0,,,,232.5,0,unknown,0
+2016,Armenia,134,115,249,0,0,1,Iveta Mukuchyan,LoveWave,English,Pop,1,7,26,7.0,Female,1,unknown,unknown,F Minor,120,72,53,31,8 dB,8,0,11,5,unknown,unknown,0,0,0,0,21.0,21.0,2.0,116.0,127.0,243.0,0,unknown,0
+2016,Poland,222,7,229,0,0,1,Michal Szpak,Color of Your Life,English,Pop,2,2,12,8.0,Male,1,unknown,unknown,A Minor,83,67,49,25,5 dB,9,0,8,3,unknown,unknown,0,0,4,0,35.0,4.0,6.0,131.0,20.0,151.0,0,unknown,0
+2016,Lithuania,96,104,200,0,0,1,Donny Montell,I've Been Waiting for This Night,English,Ballad,2,9,16,9.0,Male,1,unknown,unknown,A Major,134,77,48,61,6 dB,0,0,31,4,unknown,unknown,0,0,0,0,17.0,22.0,4.0,118.0,104.0,222.0,0,unknown,0
+2016,Belgium,51,130,181,0,0,1,Laura Tesoro,What's the Pressure,English,Pop,2,18,1,10.0,Female,1,unknown,unknown,B Major,117,81,75,76,3 dB,2,0,7,10,unknown,unknown,0,4,0,0,9.0,20.0,3.0,135.0,139.0,274.0,0,unknown,0
+2016,Netherlands,39,114,153,0,0,1,Douwe Bob,Slow Down,English,Pop,1,6,3,11.0,Male,1,unknown,unknown,B Minor,124,79,60,62,5 dB,5,0,6,3,unknown,unknown,0,0,5,1,8.0,22.0,5.0,95.0,102.0,197.0,0,unknown,0
+2016,Malta,16,137,153,0,0,1,Ira Losco,Walk on Water,English,Pop,1,18,22,12.0,Female,1,unknown,unknown,Eb Minor,124,81,38,18,5 dB,0,0,13,5,unknown,unknown,1,0,0,0,3.0,23.0,3.0,54.0,155.0,209.0,0,unknown,0
+2016,Austria,120,31,151,0,0,1,Zoe,Loin d'ici,French,Pop,1,12,24,13.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,0,0,27.0,7.0,7.0,133.0,37.0,170.0,0,unknown,0
+2016,Israel,11,124,135,0,0,1,Hovi Star,Made of Stars,English,Ballad,2,4,7,14.0,Male,1,unknown,unknown,G Minor,70,41,43,36,7 dB,62,0,12,3,unknown,unknown,2,0,0,0,3.0,25.0,7.0,20.0,127.0,147.0,0,unknown,0
+2016,Latvia,63,69,132,0,0,1,Justs,Heartbeat,English,Pop,2,1,20,15.0,Male,1,unknown,unknown,Db Major,115,55,68,52,7 dB,3,0,9,7,unknown,unknown,0,0,0,0,13.0,14.0,8.0,68.0,64.0,132.0,0,unknown,0
+2016,Italy,34,90,124,0,1,1,Francesca Michielin,No Degree of Separation,"Italian, English",Pop,2,-,6,16.0,Female,1,unknown,unknown,C Major,150,78,29,34,4 dB,2,0,17,4,unknown,unknown,0,0,0,0,8.0,14.0,,,,232.5,0,unknown,0
+2016,Azerbaijan,73,44,117,0,0,1,Samra,Miracle,English,Pop,1,14,4,17.0,Female,1,unknown,unknown,F Minor,96,76,58,34,3 dB,5,0,14,4,unknown,unknown,0,4,0,0,13.0,11.0,6.0,93.0,92.0,185.0,0,unknown,0
+2016,Serbia,80,35,115,0,0,1,Sanja Vucic ZAA,Goodbye (Shelter),English,Pop,2,6,15,18.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,1,4,0,0,8.0,7.0,10.0,50.0,55.0,105.0,0,unknown,0
+2016,Hungary,56,52,108,0,0,1,Freddie,Pioneer,English,Pop,1,4,5,19.0,Male,1,unknown,unknown,C Minor,72,59,51,28,8 dB,0,96,11,3,unknown,unknown,0,3,1,0,16.0,12.0,4.0,119.0,78.0,197.0,0,unknown,0
+2016,Georgia,24,80,104,0,0,1,Nika Kocharov & Young Georgian Lolitaz,Midnight Gold,English,Rock,2,16,23,20.0,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,3,1,6.0,12.0,9.0,39.0,84.0,123.0,0,unknown,0
+2016,Cyprus,53,43,96,0,0,1,Minus One,Alter Ego,English,Rock,1,11,14,21.0,Male,1,unknown,unknown,Bb Minor,130,91,48,59,4 dB,1,0,10,5,unknown,unknown,0,0,4,0,11.0,10.0,8.0,93.0,71.0,164.0,0,unknown,0
+2016,Spain,10,67,77,0,1,1,Barei,Say Yay!,English,Pop,1,-,19,22.0,Female,1,unknown,unknown,F Minor,125,79,63,53,6 dB,2,0,10,3,unknown,unknown,0,4,0,0,5.0,15.0,,,,232.5,0,unknown,0
+2016,Croatia,33,40,73,0,0,1,Nina Kraljic,Lighthouse,English,Pop,1,5,17,23.0,Female,1,unknown,unknown,Bb Minor,116,54,60,36,5 dB,23,0,21,4,unknown,unknown,0,4,0,0,5.0,11.0,10.0,53.0,80.0,133.0,0,unknown,0
+2016,United Kingdom,8,54,62,0,1,1,Joe and Jake,You're Not Alone,English,Pop,2,-,25,24.0,Male,2,unknown,unknown,E Major,128,87,53,34,5 dB,0,0,17,5,unknown,unknown,0,0,2,1,3.0,10.0,,,,232.5,0,unknown,0
+2016,Czech Republic,0,41,41,0,0,1,Gabriela Guncikova,I Stand,English,Pop,1,10,2,25.0,Female,1,unknown,unknown,G Minor,103,59,17,17,6 dB,0,0,31,4,unknown,unknown,0,0,0,0,0.0,11.0,9.0,41.0,120.0,161.0,0,unknown,0
+2016,Germany,10,1,11,0,1,1,Jamie-Lee,Ghost,English,Pop,2,-,10,26.0,Female,1,unknown,unknown,Bb Minor,170,60,47,21,7 dB,33,0,7,4,unknown,unknown,0,0,0,0,2.0,1.0,,,,232.5,0,unknown,0
+2016,Finland,0,0,0,0,0,0,Sandhja,Sing It Away,English,Pop,1,1,-,,Female,1,unknown,unknown,G Minor,126,90,65,58,5 dB,0,3,15,8,unknown,unknown,0,5,0,0,,,15.0,16.0,35.0,51.0,0,unknown,0
+2016,Greece,0,0,0,0,0,0,Argo,Utopian Land,"English,†Greek3",Pop,1,2,-,,Mix,4,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,2,0,,,16.0,22.0,22.0,44.0,0,unknown,0
+2016,Moldova,0,0,0,0,0,0,Lidia Isac,Falling Stars,English,Pop,1,3,-,,Female,1,unknown,unknown,Ab Major,126,82,63,30,7 dB,5,0,2,4,unknown,unknown,1,0,0,0,,,17.0,9.0,24.0,33.0,0,unknown,0
+2016,San Marino,0,0,0,0,0,0,Serhat,I Didn't Know,English,Pop,1,8,-,,Male,1,unknown,unknown,Fs Minor,123,70,68,54,7 dB,3,0,13,5,unknown,unknown,0,5,0,0,,,12.0,49.0,19.0,68.0,0,unknown,0
+2016,Estonia,0,0,0,0,0,0,Juri Pootsmann,Play,English,Pop,1,13,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,0,0,,,18.0,15.0,9.0,24.0,0,unknown,0
+2016,Montenegro,0,0,0,0,0,0,Highway,The Real Thing,English,Pop,1,15,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,1,1,2,0,,,13.0,14.0,46.0,60.0,0,unknown,0
+2016,Iceland,0,0,0,0,0,0,Greta SalOme,Hear Them Calling,English,Pop,1,16,-,,Female,1,unknown,unknown,D Minor,134,54,54,29,11 dB,4,0,25,8,unknown,unknown,0,0,0,0,,,14.0,24.0,27.0,51.0,0,unknown,0
+2016,Bosnia and Herzegovina,0,0,0,0,0,0,Dalal†&†Deen†feat.†Ana Rucner†and†Jala,Ljubav je,Bosnian,Pop,1,17,-,,Mix,3,unknown,unknown,Eb Major,84,73,30,48,6 dB,34,0,9,12,unknown,unknown,0,0,1,0,,,11.0,78.0,26.0,104.0,0,unknown,0
+2016,Switzerland,0,0,0,0,0,0,Rykka,The Last of Our Kind,English,Pop,2,3,-,,Female,1,unknown,unknown,Db Minor,81,67,57,45,5 dB,16,0,43,4,unknown,unknown,0,0,0,0,,,18.0,3.0,25.0,28.0,0,unknown,0
+2016,Belarus,0,0,0,0,0,0,Ivan,Help You Fly,English,Pop,2,5,-,,Male,1,unknown,unknown,D Minor,93,76,49,29,6 dB,0,0,15,3,unknown,unknown,0,0,0,0,,,12.0,52.0,32.0,84.0,0,unknown,0
+2016,Ireland,0,0,0,0,0,0,Nicky Byrne,Sunlight,English,Pop,2,7,-,,Male,1,unknown,unknown,G Minor,125,9,62,48,6 dB,4,0,26,3,unknown,unknown,0,0,3,0,,,15.0,31.0,15.0,46.0,0,unknown,0
+2016,North Macedonia,0,0,0,0,0,0,Kaliopi,Dona,Macedonian,Ballad,2,8,-,,Female,1,unknown,unknown,G Major,132,51,52,17,7 dB,17,0,11,5,unknown,unknown,0,4,1,0,,,11.0,54.0,34.0,88.0,0,unknown,0
+2016,Slovenia,0,0,0,0,0,0,ManuElla,Blue and Red,English,Pop,2,11,-,,Female,1,unknown,unknown,G Major,145,81,51,22,3 dB,9,0,35,4,unknown,unknown,1,0,0,0,,,14.0,8.0,49.0,57.0,0,unknown,0
+2016,Denmark,0,0,0,0,0,0,Lighthouse X,Soldiers of Love,English,Pop,2,13,-,,Male,3,unknown,unknown,Ab Major,127,70,65,39,7 dB,2,0,6,5,unknown,unknown,0,0,0,0,,,17.0,24.0,10.0,34.0,0,unknown,0
+2016,Norway,0,0,0,0,0,0,Agnete,Icebreaker,English,Dance,2,15,-,,Female,1,unknown,unknown,Fs Minor,125,72,43,18,6 dB,1,0,11,4,unknown,unknown,1,0,0,0,,,13.0,34.0,29.0,63.0,0,unknown,0
+2016,Albania,0,0,0,0,0,0,Eneda Tarifa,Fairytale,English,Pop,2,17,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,3,0,0,,,16.0,35.0,10.0,45.0,0,unknown,0
+2015,Sweden,353,272,625,1,0,1,Mans Zelmerlow,Heroes,English,Pop,2,13,10,1.0,Male,1,unknown,unknown,G Major,124,79,48,37,4 dB,7,0,5,4,unknown,unknown,0,0,0,0,38.0,37.0,1.0,,,217.0,1,unknown,0
+2015,Italy,171,356,527,0,1,1,Il Volo,Grande amore,Italian,Ballad,1,-,27,3.0,Male,3,unknown,unknown,Db Major,142,60,46,15,6 dB,6,0,15,3,unknown,unknown,0,0,0,0,38.0,27.0,,,,136.0,0,unknown,0
+2015,Russia,234,286,520,0,0,1,Polina Gagarina,A Million Voices,English,Pop,1,12,25,2.0,Female,1,unknown,unknown,G Major,76,66,43,32,4 dB,18,0,17,3,unknown,unknown,0,2,3,0,38.0,32.0,1.0,,,182.0,0,unknown,0
+2015,Belgium,186,190,376,0,0,1,Loic Nottet,Rhythm Inside,English,Pop,1,3,13,4.0,Male,1,unknown,unknown,G Major,90,51,82,31,5 dB,8,0,7,4,unknown,unknown,0,5,0,0,37.0,31.0,2.0,,,149.0,0,unknown,0
+2015,Latvia,249,88,337,0,0,1,Aminata,Love Injected,English,Pop,2,10,19,6.0,Female,1,unknown,unknown,G Minor,144,29,45,16,10 dB,12,2,12,5,unknown,unknown,0,3,0,0,22.0,35.0,2.0,,,155.0,0,unknown,0
+2015,Norway,163,37,200,0,0,1,Morland†&†Debrah Scarlett,A Monster Like Me,English,Ballad,2,6,9,8.0,Mix,2,unknown,unknown,Db Minor,147,31,31,17,8 dB,46,0,10,3,unknown,unknown,0,0,0,0,10.0,24.0,4.0,,,123.0,0,unknown,0
+2015,Estonia,53,144,197,0,0,1,Elina Born†&†Stig Rasta,Goodbye to Yesterday,English,Pop,1,7,4,7.0,Mix,2,unknown,unknown,G Minor,138,83,63,70,5 dB,38,0,39,5,unknown,unknown,0,0,0,1,32.0,16.0,3.0,,,105.0,0,unknown,0
+2015,Israel,77,102,179,0,0,1,Nadav Guedj,Golden Boy,English,Pop,2,9,3,9.0,Male,1,unknown,unknown,Db Minor,115,83,72,70,5 dB,18,0,7,6,unknown,unknown,3,2,0,0,31.0,17.0,3.0,,,151.0,0,unknown,0
+2015,Georgia,62,51,113,0,0,1,Nina Sublatti,Warrior,English,Pop,1,16,23,11.0,Female,1,unknown,unknown,F Minor,141,91,46,39,4 dB,1,0,22,10,unknown,unknown,0,0,0,0,12.0,13.0,4.0,,,98.0,0,unknown,0
+2015,Serbia,12,86,98,0,0,1,Bojana Stamenov,Beauty Never Lies,English,Pop,1,9,8,10.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,4,0,0,16.0,4.0,9.0,,,63.0,0,unknown,0
+2015,Albania,4,93,97,0,0,1,Elhaida Dani,I'm Alive,English,Pop,1,14,26,17.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,3,0,0,12.0,2.0,10.0,,,62.0,0,unknown,0
+2015,Armenia,15,77,92,0,0,1,Genealogy,Face the Shadow,English,Pop,1,2,6,16.0,Mix,6,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,0,0,11.0,4.0,7.0,,,77.0,0,unknown,0
+2015,Romania,21,69,90,0,0,1,Voltaj,De la capat,"Romanian, English",Pop,1,15,20,15.0,Male,1,unknown,unknown,E Major,98,56,57,16,6 dB,49,0,13,3,unknown,unknown,0,0,4,0,12.0,4.0,5.0,,,89.0,0,unknown,0
+2015,Azerbaijan,40,48,88,0,0,1,Elnur Huseynov,Hour of the Wolf,English,Ballad,2,11,24,12.0,Male,1,unknown,unknown,D Major,106,67,48,19,5 dB,6,0,31,4,unknown,unknown,2,0,0,0,8.0,8.0,10.0,,,53.0,0,unknown,0
+2015,Montenegro,44,34,78,0,0,1,Knez,Adio,Montenegrin,Traditional,2,4,16,13.0,Male,1,unknown,unknown,Fs Minor,95,56,34,29,8 dB,63,0,6,3,unknown,unknown,0,5,0,0,5.0,9.0,9.0,,,57.0,0,unknown,0
+2015,Lithuania,31,44,75,0,0,1,Monika Linkyte†&†Vaidas Baumila,This Time,English,Pop,2,1,7,18.0,Mix,2,unknown,unknown,Ab Major,131,87,56,32,6 dB,0,0,11,6,unknown,unknown,0,4,0,0,6.0,9.0,7.0,,,67.0,0,unknown,0
+2015,Cyprus,63,8,71,0,0,1,John Karayiannis,One Thing I Should Have Done,English,Ballad,2,15,11,22.0,Male,1,unknown,unknown,Eb Major,90,38,35,46,8 dB,55,0,37,3,unknown,unknown,0,0,0,0,1.0,15.0,6.0,,,87.0,0,unknown,0
+2015,Slovenia,36,27,63,0,0,1,Maraaya,Here for You,English,Pop,2,16,1,14.0,Female,1,unknown,unknown,E Minor,158,76,29,54,5 dB,1,0,38,17,unknown,unknown,1,0,1,0,6.0,10.0,5.0,,,92.0,0,unknown,0
+2015,Greece,29,24,53,0,0,1,Maria Elena Kyriakou,One Last Breath,English,Ballad,1,6,15,19.0,Female,1,unknown,unknown,D Minor,69,60,22,31,7 dB,18,0,41,4,unknown,unknown,0,0,1,0,4.0,5.0,6.0,,,81.0,0,unknown,0
+2015,Poland,2,47,49,0,0,1,Monika Kuszynska,In the Name of Love,English,Ballad,2,17,18,23.0,Female,1,unknown,unknown,Db Major,82,64,34,13,7 dB,15,0,18,4,unknown,unknown,0,3,1,0,10.0,1.0,8.0,,,57.0,0,unknown,0
+2015,Hungary,29,17,46,0,0,1,Boggie,Wars for Nothing,English,Pop,1,10,22,20.0,Female,1,unknown,unknown,D Major,97,15,45,22,12 dB,83,0,16,3,unknown,unknown,0,4,0,0,4.0,8.0,8.0,,,67.0,0,unknown,0
+2015,Austria,40,0,40,0,1,1,The Makemakes,I Am Yours,English,Ballad,1,-,14,26.0,Male,1,unknown,unknown,Db Major,83,50,52,25,6 dB,31,0,10,3,unknown,unknown,0,0,2,1,0.0,12.0,,,,136.0,0,unknown,1
+2015,Spain,6,26,32,0,1,1,Edurne,Amanecer,Spanish,Ballad,1,-,21,21.0,Female,1,unknown,unknown,Eb Minor,127,70,45,11,4 dB,14,0,10,3,unknown,unknown,1,0,0,0,8.0,3.0,,,,136.0,0,unknown,0
+2015,Germany,24,5,29,0,1,1,Ann Sophie,Black Smoke,English,Pop,2,-,17,27.0,Female,1,unknown,unknown,Db Major,172,86,61,81,4 dB,0,0,15,9,unknown,unknown,0,4,0,0,2.0,7.0,,,,136.0,0,unknown,0
+2015,France,24,3,27,0,1,1,Lisa Angell,N'oubliez pas,French,Ballad,2,-,2,25.0,Female,1,unknown,unknown,A Minor,126,51,54,21,6 dB,75,0,10,3,unknown,unknown,0,0,4,0,1.0,8.0,,,,136.0,0,unknown,0
+2015,United Kingdom,12,4,16,0,1,1,Electro Velvet,Still in Love with You,English,Pop,2,-,5,24.0,Mix,2,unknown,unknown,C Major,117,81,75,74,4 dB,3,0,8,6,unknown,unknown,0,4,0,0,2.0,6.0,,,,136.0,0,unknown,0
+2015,Moldova,0,0,0,0,0,0,Eduard Romanyuta,I Want Your Love,English,Pop,1,1,-,,Male,1,unknown,unknown,Ab Major,103,81,44,87,5 dB,3,0,15,4,unknown,unknown,3,2,0,0,,,11.0,,,41.0,0,unknown,0
+2015,Netherlands,0,0,0,0,0,0,Trijntje Oosterhuis,Walk Along,English,Pop,1,4,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,4,0,0,,,14.0,,,33.0,0,unknown,0
+2015,Finland,0,0,0,0,0,0,Pertti Kurikan Nimipaivat,Aina mun pitaa,Finnish,Rock,1,5,-,,Male,1,unknown,unknown,C Major,97,85,39,80,6 dB,0,0,36,5,unknown,unknown,0,0,3,0,,,16.0,,,13.0,0,unknown,0
+2015,North Macedonia,0,0,0,0,0,0,Daniel Kajmakoski,Autumn Leaves,English,Pop,1,8,-,,Male,1,unknown,unknown,C Major,120,64,60,40,8 dB,63,0,9,3,unknown,unknown,0,3,0,0,,,15.0,,,28.0,0,unknown,0
+2015,Belarus,0,0,0,0,0,0,Uzari†&†Maimuna,Time,English,Pop,1,11,-,,Male,1,unknown,unknown,G Minor,130,84,56,51,4 dB,10,0,27,4,unknown,unknown,0,0,1,0,,,12.0,,,39.0,0,unknown,0
+2015,Denmark,0,0,0,0,0,0,Anti Social Media,The Way You Are,English,Pop,1,13,-,,Male,1,unknown,unknown,C Major,125,78,58,84,2 dB,9,0,24,3,unknown,unknown,0,2,3,1,,,13.0,,,33.0,0,unknown,0
+2015,Ireland,0,0,0,0,0,0,Molly Sterling,Playing with Numbers,English,Ballad,2,2,-,,Female,1,unknown,unknown,C Major,79,49,56,24,6 dB,27,0,30,3,unknown,unknown,0,2,3,1,,,12.0,,,35.0,0,unknown,0
+2015,San Marino,0,0,0,0,0,0,Anita Simoncini†&†Michele Perniola,Chain of Lights,English,Pop,2,3,-,,Mix,2,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,4,0,0,,,16.0,,,11.0,0,unknown,0
+2015,Malta,0,0,0,0,0,0,Amber,Warrior,English,Ballad,2,5,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,0,0,,,11.0,,,43.0,0,unknown,0
+2015,Portugal,0,0,0,0,0,0,Leonor Andrade,Ha um mar que nos separa,Portuguese,Ballad,2,7,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,4,0,0,,,14.0,,,19.0,0,unknown,0
+2015,Czech Republic,0,0,0,0,0,0,Marta Jandova†&†Vaclav Noid Barta,Hope Never Dies,English,Ballad,2,8,-,,Mix,2,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,0,0,,,13.0,,,33.0,0,unknown,0
+2015,Iceland,0,0,0,0,0,0,Maria Olafs,Unbroken,English,Pop,2,12,-,,Female,1,unknown,unknown,Ab Major,97,61,27,46,7 dB,10,0,30,5,unknown,unknown,0,5,0,0,,,15.0,,,14.0,0,unknown,0
+2015,Switzerland,0,0,0,0,0,0,Melanie Rene,Time to Shine,English,Pop,2,14,-,,Female,1,unknown,unknown,E Minor,140,67,60,45,7 dB,1,0,14,4,unknown,unknown,0,0,4,0,,,17.0,,,4.0,0,unknown,0
+2014,Austria,214,306,520,1,0,1,Conchita Wurst,Rise Like a Phoenix,English,Ballad,2,6,11,1.0,Male,1,unknown,unknown,D Minor,82,45,43,21,9 dB,8,0,13,3,unknown,unknown,0,0,0,0,34.0,26.0,1.0,,,169.0,0,unknown,0
+2014,Sweden,199,173,372,0,0,1,Sanna Nielsen,Undo,English,Ballad,1,4,13,3.0,Female,1,unknown,unknown,Fs Major,122,49,58,26,4 dB,40,0,8,4,unknown,unknown,0,0,0,0,32.0,25.0,2.0,,,131.0,0,unknown,0
+2014,Armenia,113,187,300,0,0,1,Aram MP3,Not Alone,English,Ballad,1,1,7,4.0,Male,1,unknown,unknown,C Minor,70,63,45,20,7 dB,28,95,20,3,unknown,unknown,0,0,0,0,26.0,19.0,4.0,,,121.0,1,unknown,0
+2014,Hungary,138,83,221,0,0,1,Andras Kallay-Saunders,Running,English,Pop,1,16,21,5.0,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,2,0,0,0,21.0,21.0,3.0,,,127.0,0,unknown,0
+2014,Russia,62,132,194,0,0,1,Tolmachevy Sisters,Shine,English,Pop,1,7,15,7.0,Female,2,unknown,unknown,E Minor,120,87,63,71,5 dB,22,0,10,3,unknown,unknown,0,0,0,0,18.0,11.0,6.0,,,63.0,0,unknown,0
+2014,Poland,23,162,185,0,0,1,Donatan†&†Cleo,My Slowianie ñ We Are Slavic,"Polish, English",Traditional,2,5,9,14.0,Female,1,unknown,unknown,G Major,156,85,68,68,5 dB,26,0,38,10,unknown,unknown,5,0,0,0,23.0,6.0,8.0,,,70.0,0,unknown,0
+2014,Ukraine,72,112,184,0,0,1,Mariya Yaremchuk,Tick-Tock,English,Pop,1,9,1,6.0,Female,1,unknown,unknown,Fs Minor,125,90,70,73,4 dB,1,0,6,4,unknown,unknown,1,0,0,0,19.0,14.0,5.0,,,118.0,0,unknown,0
+2014,Romania,51,103,154,0,0,1,Paula Seling†&†Ovi,Miracle,English,Dance,2,15,6,12.0,Mix,2,unknown,unknown,A Major,135,87,55,35,4 dB,2,0,18,4,unknown,unknown,0,0,0,0,16.0,9.0,2.0,,,125.0,0,unknown,0
+2014,Finland,114,36,150,0,0,1,Softengine,Something Better,English,Rock,2,8,18,11.0,Male,1,unknown,unknown,C Major,146,88,56,37,6 dB,0,0,25,6,unknown,unknown,0,0,4,1,7.0,19.0,3.0,,,97.0,0,unknown,0
+2014,Norway,102,39,141,0,0,1,Carl Espen,Silent Storm,English,Ballad,2,3,5,8.0,Male,1,unknown,unknown,A Major,75,20,35,24,11 dB,86,0,10,4,unknown,unknown,0,0,1,0,13.0,18.0,6.0,,,77.0,0,unknown,0
+2014,Switzerland,26,114,140,0,0,1,Sebalter,Hunter of Stars,English,Pop,2,12,20,13.0,Male,1,unknown,unknown,E Minor,88,89,57,92,4 dB,14,0,10,7,unknown,unknown,0,0,5,1,29.0,5.0,4.0,,,92.0,0,unknown,0
+2014,Malta,119,12,131,0,0,1,Firelight,Coming Home,English,Traditional,2,1,22,23.0,Mix,2,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,4,1,4.0,22.0,9.0,,,63.0,0,unknown,0
+2014,Denmark,85,42,127,0,1,1,Basim,Cliche Love Song,English,Pop,1,-,23,9.0,Male,1,unknown,unknown,Ab Major,112,84,78,71,4 dB,5,0,5,6,unknown,unknown,2,3,0,0,12.0,16.0,,,,123.0,0,unknown,1
+2014,Azerbaijan,101,14,115,0,0,1,Dilara Kazimova,Start a Fire,English,Ballad,1,8,3,22.0,Female,1,unknown,unknown,B Minor,85,32,30,31,7 dB,83,0,18,3,unknown,unknown,1,0,0,0,3.0,22.0,9.0,,,57.0,0,unknown,0
+2014,Spain,83,29,112,0,1,1,Ruth Lorenzo,Dancing in the Rain,"English,†Spanish",Ballad,1,-,19,10.0,Female,1,unknown,unknown,C Major,130,67,60,42,7 dB,68,0,10,4,unknown,unknown,0,0,0,0,7.0,21.0,,,,123.0,0,unknown,0
+2014,Belarus,50,56,106,0,0,1,Teo,Cheesecake,English,Pop,2,10,2,16.0,Male,1,unknown,unknown,Db Minor,95,80,80,89,4 dB,18,0,7,7,unknown,unknown,0,4,0,0,10.0,9.0,5.0,,,87.0,0,unknown,0
+2014,Iceland,59,38,97,0,0,1,Pollaponk,No Prejudice,English,Rock,1,5,4,15.0,Male,3,unknown,unknown,G Major,108,93,71,76,5 dB,11,0,26,9,unknown,unknown,0,2,1,1,9.0,9.0,8.0,,,61.0,0,unknown,0
+2014,Greece,45,41,86,0,0,1,Freaky Fortune†feat.†RiskyKidd,Rise Up,English,Dance,2,13,10,20.0,Male,2,unknown,unknown,C Minor,128,82,67,65,6 dB,4,0,39,6,unknown,unknown,0,0,1,0,11.0,11.0,7.0,,,74.0,0,unknown,0
+2014,Germany,56,27,83,0,1,1,Elaiza,Is It Right,English,Traditional,2,-,12,18.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,2,0,6.0,12.0,,,,123.0,0,unknown,0
+2014,Montenegro,48,27,75,0,0,1,Sergej cetkovic,Moj svijet,Montenegrin,Ballad,1,15,8,19.0,Male,1,unknown,unknown,C Minor,53,58,19,23,5 dB,32,0,11,4,unknown,unknown,1,3,0,0,3.0,9.0,7.0,,,63.0,0,unknown,0
+2014,United Kingdom,49,24,73,0,1,1,Molly,Children of the Universe,English,Pop,2,-,26,17.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,4,1,0,5.0,12.0,,,,123.0,0,unknown,0
+2014,Italy,37,22,59,0,1,1,Emma,La mia citta,Italian,Rock,1,-,16,21.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,4,0,4.0,5.0,,,,123.0,0,unknown,0
+2014,Slovenia,21,15,36,0,0,1,Tinkara Kovac,Round and Round,"English,†Slovene",Pop,2,14,17,25.0,Female,1,unknown,unknown,Ab Major,120,63,54,25,6 dB,2,0,22,3,unknown,unknown,0,3,0,1,2.0,7.0,10.0,,,52.0,0,unknown,0
+2014,San Marino,16,15,31,0,0,1,Valentina Monetta,Maybe,English,Ballad,1,12,25,24.0,Female,2,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,1,0,7.0,3.0,10.0,,,40.0,0,unknown,0
+2014,France,5,1,6,0,1,1,TWIN TWIN,Moustache,French,Dance,2,-,14,26.0,Male,1,unknown,unknown,Eb Minor,128,89,66,79,5 dB,0,0,9,4,unknown,unknown,2,1,2,0,1.0,2.0,,,,123.0,0,unknown,0
+2014,Latvia,0,0,0,0,0,0,Aarzemnieki,Cake to Bake,English,Pop,1,2,-,,Male,2,unknown,unknown,Fs Major,99,69,59,81,7 dB,63,0,13,7,unknown,unknown,0,0,2,1,,,13.0,,,33.0,0,unknown,0
+2014,Estonia,0,0,0,0,0,0,Tanja,Amazing,English,Dance,1,3,-,,Female,1,unknown,unknown,F Minor,128,63,64,14,7 dB,1,43,12,4,unknown,unknown,1,0,0,0,,,12.0,,,36.0,0,unknown,0
+2014,Albania,0,0,0,0,0,0,Hersi,One Night's Anger,English,Ballad,1,6,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,2,2,0,,,15.0,,,22.0,0,unknown,0
+2014,Belgium,0,0,0,0,0,0,Axel Hirsoux,Mother,English,Ballad,1,10,-,,Male,1,unknown,unknown,E Minor,87,33,31,25,8 dB,86,0,10,3,unknown,unknown,1,0,0,0,,,14.0,,,28.0,0,unknown,0
+2014,Moldova,0,0,0,0,0,0,Cristina Scarlat,Wild Soul,English,Ballad,1,11,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,4,0,0,0,,,16.0,,,13.0,0,unknown,0
+2014,Portugal,0,0,0,0,0,0,Suzy,Quero ser tua,Portuguese,Pop,1,13,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,2,2,1,0,,,11.0,,,39.0,0,unknown,0
+2014,Israel,0,0,0,0,0,0,Mei Finegold,Same Heart,"English,†Hebrew",Pop,2,2,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,2,0,0,0,,,14.0,,,19.0,0,unknown,0
+2014,Georgia,0,0,0,0,0,0,The Shin†and†Mariko,Three Minutes to Earth,English,Traditional,2,4,-,,Mix,2,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,1,0,1,1,,,15.0,,,15.0,0,unknown,0
+2014,Lithuania,0,0,0,0,0,0,Vilija,Attention,English,Pop,2,7,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,1,3,0,0,,,11.0,,,36.0,0,unknown,0
+2014,Ireland,0,0,0,0,0,0,Can-Linn†feat.†Kasey Smith,Heartbeat,English,Pop,2,9,-,,Female,1,unknown,unknown,C Major,120,84,68,74,4 dB,29,0,19,3,unknown,unknown,2,2,1,0,,,12.0,,,35.0,0,unknown,0
+2014,North Macedonia,0,0,0,0,0,0,Tijana,To the Sky,English,Pop,2,11,-,,Female,1,unknown,unknown,Db Minor,128,88,55,74,5 dB,0,0,10,5,unknown,unknown,1,3,0,0,,,13.0,,,33.0,0,unknown,0
+2014,Netherlands,0,0,0,0,0,1,The Common Linnets,Calm After the Storm,English,Traditional,1,14,24,2.0,Mix,2,unknown,unknown,Fs Major,116,37,71,43,11 dB,52,23,11,3,unknown,unknown,0,0,3,1,,,1.0,,,150.0,0,unknown,0
+2012,Sweden,343,296,639,1,0,1,Loreen,Euphoria,English,Dance,2,11,17,1.0,Female,1,unknown,unknown,B Minor,132,78,56,39,5 dB,14,0,28,4,unknown,unknown,1,0,0,0,,,1.0,,,181.0,1,unknown,0
+2012,Russia,332,94,426,0,0,1,Buranovskiye Babushki,Party for Everybody,"Udmurt, English",Dance,1,14,6,2.0,Female,6,unknown,unknown,C Minor,126,85,65,62,5 dB,19,0,35,13,unknown,unknown,0,0,0,0,,,1.0,,,152.0,0,unknown,0
+2012,Serbia,211,173,384,0,0,1,zeljko Joksimovic,Nije ljubav stvar†,Serbian,Ballad,2,1,24,3.0,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,5,0,,,2.0,,,159.0,0,unknown,0
+2012,Azerbaijan,151,118,269,0,1,1,Sabina Babayeva,When the Music Dies,English,Ballad,2,-,13,4.0,Female,1,unknown,unknown,Db Minor,92,9,22,30,4 dB,61,0,43,3,unknown,unknown,3,1,0,0,,,,,,118.0,0,unknown,1
+2012,Albania,106,157,263,0,0,1,Rona Nishliu,Suus3,Albanian,Ballad,1,5,3,5.0,Female,1,unknown,unknown,Bb Minor,74,33,28,9,5 dB,80,0,11,3,unknown,unknown,0,0,0,0,,,2.0,,,146.0,0,unknown,0
+2012,Estonia,78,152,230,0,0,1,Ott Lepland,Kuula,Estonian,Ballad,2,14,11,6.0,Male,1,unknown,unknown,F Major,129,31,37,14,8 dB,45,0,9,3,unknown,unknown,0,1,0,0,,,4.0,,,100.0,0,unknown,0
+2012,Turkey,176,50,226,0,0,1,Can Bonomo,Love Me Back,English,Traditional,2,13,18,7.0,Male,1,unknown,unknown,E Major,102,96,70,64,5 dB,18,0,73,7,unknown,unknown,5,0,0,0,,,5.0,,,80.0,0,unknown,0
+2012,Germany,125,98,223,0,1,1,Roman Lob,Standing Still,English,Pop,1,-,20,8.0,Male,1,unknown,unknown,Bb Major,108,87,59,4,8 dB,6,79,11,4,unknown,unknown,0,0,4,1,,,,,,118.0,0,unknown,0
+2012,Italy,56,157,213,0,1,1,Nina Zilli,L'amore e femmina (Out of Love),"English,†Italian",Pop,2,-,10,9.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,3,0,0,,,,,,118.0,0,unknown,0
+2012,Spain,45,154,199,0,1,1,Pastora Soler,Quedate conmigo (Stay With Me),Spanish,Ballad,1,-,19,10.0,Female,1,unknown,unknown,Ab Major,84,66,49,20,5 dB,36,0,52,3,unknown,unknown,0,5,0,0,,,,,,118.0,0,unknown,0
+2012,Moldova,75,104,179,0,0,1,Pasha Parfeny,Lautar,English6,Pop,1,17,26,11.0,Male,1,unknown,unknown,G Minor,107,86,66,60,4 dB,11,0,21,6,unknown,unknown,3,2,0,0,,,5.0,,,100.0,0,unknown,0
+2012,Romania,117,53,170,0,0,1,Mandinga,Zaleilah,"Spanish, English",Dance,1,6,14,12.0,Female,1,unknown,unknown,D Minor,127,82,70,79,6 dB,5,1,34,5,unknown,unknown,0,0,5,0,,,3.0,,,120.0,0,unknown,0
+2012,Ukraine,37,125,162,0,0,1,Gaitana,Be My Guest,English,Dance,2,7,25,15.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,4,0,,,8.0,,,64.0,0,unknown,0
+2012,Lithuania,68,82,150,0,0,1,Donny Montell,Love Is Blind,English,Ballad,2,18,4,14.0,Male,1,unknown,unknown,Eb Minor,124,31,76,8,10 dB,32,77,11,6,unknown,unknown,0,0,0,0,,,3.0,,,104.0,0,unknown,0
+2012,Greece,89,60,149,0,0,1,Eleftheria Eleftheriou,Aphrodisiac,English,Dance,1,3,16,17.0,Female,1,unknown,unknown,B Minor,110,86,63,87,5 dB,0,0,30,3,unknown,unknown,4,1,0,0,,,4.0,,,116.0,0,unknown,0
+2012,Cyprus,63,85,148,0,0,1,Ivi Adamou,La La Love,English,Dance,1,12,8,16.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,4,1,0,0,,,7.0,,,91.0,0,unknown,0
+2012,Ireland,89,14,103,0,0,1,Jedward,Waterline,English,Dance,1,18,23,19.0,Male,2,unknown,unknown,Bb Major,144,73,66,86,6 dB,0,0,7,4,unknown,unknown,0,4,0,0,,,6.0,,,92.0,0,unknown,0
+2012,Iceland,39,53,92,0,0,1,Greta Salome†and†Jonsi,Never Forget,English,Ballad,1,2,7,20.0,Mix,2,unknown,unknown,C Minor,101,73,34,48,4 dB,14,0,5,3,unknown,unknown,0,4,0,1,,,8.0,,,75.0,0,unknown,0
+2012,France,0,85,85,0,1,1,Anggun,Echo (You and I),"French, English",Pop,1,-,9,22.0,Female,1,unknown,unknown,Bb Major,137,79,58,70,5 dB,0,0,10,3,unknown,unknown,3,2,0,0,,,,,,118.0,0,unknown,0
+2012,Malta,10,70,80,0,0,1,Kurt Calleja,This Is the Night,English,Dance,2,4,21,21.0,Male,1,unknown,unknown,C Major,122,87,65,64,4 dB,0,0,7,4,unknown,unknown,1,0,4,0,,,7.0,,,70.0,0,unknown,0
+2012,Denmark,18,51,69,0,0,1,Soluna Samay,Should've Known Better,English,Rock,1,13,15,23.0,Female,1,unknown,unknown,D Major,94,48,83,75,7 dB,56,0,35,5,unknown,unknown,0,1,4,0,,,9.0,,,63.0,0,unknown,0
+2012,Hungary,20,30,50,0,0,1,Compact Disco,Sound of Our Hearts,English,Pop,1,15,2,24.0,Male,1,unknown,unknown,B Minor,80,82,41,25,4 dB,1,0,18,4,unknown,unknown,0,1,4,0,,,10.0,,,52.0,0,unknown,0
+2012,United Kingdom,36,11,47,0,1,1,Engelbert Humperdinck,Love Will Set You Free,English,Ballad,2,-,1,25.0,Male,1,unknown,unknown,D Minor,120,32,46,24,8 dB,86,0,14,3,unknown,unknown,2,0,1,0,,,,,,118.0,0,unknown,0
+2012,Norway,16,24,40,0,0,1,Tooji,Stay,English,Dance,2,16,12,26.0,Male,1,unknown,unknown,F Minor,127,90,61,59,3 dB,0,0,8,11,unknown,unknown,4,1,0,0,,,10.0,,,45.0,0,unknown,0
+2012,Austria,0,0,0,0,0,0,Trackshittaz,Woki mit deim Popo,German5,Dance,1,16,-,,Male,2,unknown,unknown,C Major,121,85,87,89,2 dB,4,0,42,4,unknown,unknown,3,0,0,0,,,18.0,,,8.0,0,unknown,0
+2012,Slovakia,0,0,0,0,0,0,Max Jason Mai,Don't Close Your Eyes,English,Rock,2,15,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,4,0,,,18.0,,,22.0,0,unknown,0
+2012,Montenegro,0,0,0,0,0,0,Rambo Amadeus,Euro Neuro,English,Traditional,1,1,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,3,2,0,,,15.0,,,20.0,0,unknown,0
+2012,Latvia,0,0,0,0,0,0,Anmary,Beautiful Song,English,Pop,1,4,-,,Female,1,unknown,unknown,Ab Minor,120,82,73,92,6 dB,6,0,31,5,unknown,unknown,0,4,0,0,,,16.0,,,17.0,0,unknown,0
+2012,Switzerland,0,0,0,0,0,0,Sinplus,Unbreakable,English,Rock,1,7,-,,Male,1,unknown,unknown,D Major,144,94,49,50,3 dB,1,0,8,4,unknown,unknown,0,0,3,0,,,11.0,,,45.0,0,unknown,0
+2012,Belgium,0,0,0,0,0,0,Iris,Would You?,English,Ballad,1,8,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,3,0,0,,,17.0,,,16.0,0,unknown,0
+2012,Finland,0,0,0,0,0,0,Pernilla Karlsson,Nar jag blundar,Swedish,Ballad,1,9,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,1,0,,,12.0,,,41.0,0,unknown,0
+2012,Israel,0,0,0,0,0,0,Izabo,Time,"English,†Hebrew",Pop,1,10,-,,Male,1,unknown,unknown,B Major,130,85,46,73,3 dB,1,0,7,4,unknown,unknown,0,2,3,1,,,13.0,,,33.0,0,unknown,0
+2012,San Marino,0,0,0,0,0,0,Valentina Monetta,The Social Network Song (Oh Oh ñ Uh - Oh Oh),English,Dance,1,11,-,,Female,1,unknown,unknown,Ab Minor,106,91,69,89,6 dB,8,33,6,4,unknown,unknown,0,4,1,0,,,14.0,,,31.0,0,unknown,0
+2012,Netherlands,0,0,0,0,0,0,Joan Franka,You and Me,English,Pop,2,3,-,,Female,1,unknown,unknown,Fs Major,98,64,66,70,6 dB,20,0,14,2,unknown,unknown,0,0,1,0,,,15.0,,,35.0,0,unknown,0
+2012,Belarus,0,0,0,0,0,0,Litesound,We Are the Heroes,English,Dance,2,5,-,,Male,1,unknown,unknown,Db Minor,120,89,52,52,4 dB,1,0,8,4,unknown,unknown,0,0,4,0,,,16.0,,,35.0,0,unknown,0
+2012,Portugal,0,0,0,0,0,0,Filipa Sousa,Vida minha,Portuguese,Ballad,2,6,-,,Female,1,unknown,unknown,A Minor,86,21,37,21,11 dB,87,0,12,3,unknown,unknown,0,5,0,0,,,13.0,,,39.0,0,unknown,0
+2012,Bulgaria,0,0,0,0,0,0,Sofi Marinova,Love Unlimited,Bulgarian,Dance,2,8,-,,Female,1,unknown,unknown,B Minor,130,66,75,86,9 dB,14,0,36,14,unknown,unknown,0,0,0,0,,,11.0,,,45.0,0,unknown,0
+2012,Slovenia,0,0,0,0,0,0,Eva Boto,Verjamem,Slovene,Ballad,2,9,-,,Female,1,unknown,unknown,F Minor,132,54,36,12,6 dB,31,0,11,3,unknown,unknown,0,5,0,0,,,17.0,,,31.0,0,unknown,0
+2012,Croatia,0,0,0,0,0,0,Nina Badric,Nebo,Croatian,Ballad,2,10,-,,Female,1,unknown,unknown,G Minor,113,65,52,31,6 dB,46,0,8,5,unknown,unknown,2,3,0,0,,,12.0,,,42.0,0,unknown,0
+2012,Georgia,0,0,0,0,0,0,Anri Jokhadze,I'm a Joker,"English,†Georgian",Pop,2,12,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,1,4,0,1,,,14.0,,,36.0,0,unknown,0
+2012,North Macedonia,0,0,0,0,0,1,Kaliopi,Crno i belo,Macedonian,Rock,2,2,22,13.0,Female,1,unknown,unknown,D Minor,130,52,73,21,10 dB,36,0,8,33,unknown,unknown,0,0,5,0,,,9.0,,,53.0,0,unknown,0
+2012,Bosnia and Herzegovina,0,0,0,0,0,1,Maya Sar,Korake ti znam,Bosnian,Ballad,2,17,5,18.0,Female,1,unknown,unknown,A Major,122,35,38,44,8 dB,71,0,24,3,unknown,unknown,0,0,0,1,,,6.0,,,77.0,0,unknown,0
+2011,Azerbaijan,223,182,405,1,0,1,Ell & Nikki,Running Scared,English,Ballad,1,18,19,1.0,Mix,2,unknown,unknown,C Major,172,70,32,24,4 dB,2,0,36,3,unknown,unknown,0,4,0,0,,,2.0,,,122.0,0,unknown,0
+2011,Italy,99,251,350,0,1,1,Raphael Gualazzi,Madness of Love,"Italian, English",Ballad,2,-,12,2.0,Male,1,unknown,unknown,C Major,144,41,53,37,7 dB,72,0,22,4,unknown,unknown,0,0,5,1,,,,,,111.5,0,unknown,0
+2011,Sweden,221,106,327,0,0,1,Eric Saade,Popular,English,Dance,2,8,7,3.0,Male,1,unknown,unknown,A Major,125,96,54,49,5 dB,0,0,5,10,unknown,unknown,3,2,0,0,,,1.0,,,155.0,0,unknown,0
+2011,Ukraine,168,117,285,0,0,1,Mika Newton,Angel,English,Ballad,2,6,23,4.0,Female,1,unknown,unknown,F Minor,162,54,44,22,9 dB,14,0,20,3,unknown,unknown,1,1,0,0,,,6.0,,,81.0,0,unknown,0
+2011,Greece,176,84,260,0,0,1,Loukas Giorkas†feat.†Stereo Mike,Watch My Dance,"English,†Greek",Pop,1,19,9,7.0,Male,2,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,3,1,0,0,,,1.0,,,133.0,0,unknown,0
+2011,Denmark,61,168,229,0,0,1,A Friend in London,New Tomorrow,English,Rock,2,18,3,5.0,Male,1,unknown,unknown,G Major,147,67,50,41,6 dB,16,0,10,3,unknown,unknown,0,2,3,1,,,2.0,,,135.0,0,unknown,0
+2011,United Kingdom,166,57,223,0,1,1,Blue,I Can,English,Pop,1,-,14,11.0,Male,4,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,2,0,0,,,,,,111.5,0,unknown,0
+2011,Ireland,101,119,220,0,0,1,Jedward,Lipstick,English,Pop,2,19,6,8.0,Male,2,unknown,unknown,F Minor,138,48,73,15,10 dB,0,89,36,5,unknown,unknown,0,4,0,0,,,8.0,,,68.0,0,unknown,0
+2011,Georgia,138,79,217,0,0,1,Eldrine,One More Day,English,Rock,1,9,25,9.0,Female,1,unknown,unknown,Ab Minor,116,86,63,40,5 dB,0,0,25,4,unknown,unknown,0,0,5,0,,,6.0,,,74.0,0,unknown,0
+2011,Germany,113,104,217,0,1,1,Lena,Taken by a Stranger,English,Pop,2,-,16,10.0,Female,1,unknown,unknown,F Minor,160,38,75,37,12 dB,5,81,11,8,unknown,unknown,3,2,0,0,,,,,,111.5,0,unknown,1
+2011,Serbia,89,111,200,0,0,1,Nina,Caroban,Serbian,Pop,1,6,24,14.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,3,0,0,,,8.0,,,67.0,0,unknown,0
+2011,Slovenia,39,160,199,0,0,1,Maja Keuc,No One,English,Ballad,2,13,20,13.0,Female,1,unknown,unknown,F Minor,88,81,28,31,3 dB,8,0,11,4,unknown,unknown,0,4,0,0,,,3.0,,,112.0,0,unknown,0
+2011,Moldova,98,82,180,0,0,1,Zdob si Zdub,So Lucky,English,Rock,2,7,15,12.0,Male,1,unknown,unknown,E Minor,148,89,74,81,4 dB,1,0,10,6,unknown,unknown,1,0,4,0,,,10.0,,,54.0,0,unknown,0
+2011,Austria,25,145,170,0,0,1,Nadine Beiler,The Secret Is Love,English,Ballad,2,2,18,18.0,Female,1,unknown,unknown,G Major,123,47,51,10,5 dB,21,0,10,4,unknown,unknown,0,5,0,0,,,7.0,,,69.0,0,unknown,0
+2011,France,76,90,166,0,1,1,Amaury Vassili,Sognu,Corsican,Ballad,1,-,11,15.0,Male,1,unknown,unknown,Bb Minor,128,77,29,23,4 dB,80,20,15,5,unknown,unknown,0,0,0,0,,,,,,111.5,1,unknown,0
+2011,Romania,79,86,165,0,0,1,Hotel FM,Change,English,Pop,2,14,17,17.0,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,4,0,,,4.0,,,111.0,0,unknown,0
+2011,Russia,138,25,163,0,0,1,Alexey Vorobyov,Get You,"English, Russian",Pop,1,7,10,16.0,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,3,0,0,0,,,9.0,,,64.0,0,unknown,0
+2011,Iceland,60,72,132,0,0,1,Sjonni's Friends,Coming Home,English,Pop,1,14,21,20.0,Male,6,unknown,unknown,D Major,92,72,63,81,6 dB,33,0,18,4,unknown,unknown,0,0,0,1,,,4.0,,,100.0,0,unknown,0
+2011,Hungary,64,60,124,0,0,1,Kati Wolf,What About My Dreams?,"English,†Hungarian",Dance,1,15,5,22.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,3,2,0,0,,,7.0,,,72.0,0,unknown,0
+2011,Finland,47,75,122,0,0,1,Paradise Oskar,Da Da Dam,English,Pop,1,10,1,21.0,Male,1,unknown,unknown,D Major,73,51,53,18,8 dB,17,0,9,3,unknown,unknown,0,0,0,1,,,3.0,,,103.0,0,unknown,0
+2011,Lithuania,55,66,121,0,0,1,Evelina Sasenko,C'est ma vie,English,Ballad,1,17,4,19.0,Female,1,unknown,unknown,E Major,163,28,25,9,9 dB,51,0,17,3,unknown,unknown,0,0,0,1,,,5.0,,,81.0,0,unknown,0
+2011,Spain,73,38,111,0,1,1,Lucia Perez,Que me quiten lo bailao,Spanish,Pop,2,-,22,23.0,Female,1,unknown,unknown,D Major,99,86,68,86,3 dB,27,0,6,8,unknown,unknown,0,5,0,0,,,,,,111.5,0,unknown,0
+2011,Estonia,32,74,106,0,0,1,Getter Jaani,Rockefeller Street,English,Pop,2,15,8,24.0,Female,1,unknown,unknown,Eb Minor,130,89,81,75,4 dB,12,0,10,5,unknown,unknown,3,2,0,0,,,9.0,,,60.0,0,unknown,0
+2011,Switzerland,2,53,55,0,0,1,Anna Rossinelli,In Love for a While,English,Pop,1,8,13,25.0,Female,1,unknown,unknown,A Major,128,40,76,65,6 dB,25,0,10,4,unknown,unknown,0,0,2,0,,,10.0,,,55.0,0,unknown,0
+2011,Poland,0,0,0,0,0,0,Magdalena Tul,Jestem,Polish,Pop,1,1,-,,Female,1,unknown,unknown,F Minor,129,93,73,55,5 dB,0,0,32,12,unknown,unknown,2,3,0,0,,,19.0,,,18.0,0,unknown,0
+2011,Norway,0,0,0,0,0,0,Stella Mwangi,Haba Haba,"English,†Swahili",Pop,1,2,-,,Female,1,unknown,unknown,Ab Major,124,91,73,97,5 dB,3,0,17,3,unknown,unknown,0,5,0,0,,,17.0,,,30.0,0,unknown,0
+2011,Albania,0,0,0,0,0,0,Aurela GaÁe,Feel the Passion,English,Rock,1,3,-,,Female,1,unknown,unknown,Ab Minor,75,26,44,12,10 dB,84,0,11,4,unknown,unknown,0,3,2,0,,,14.0,,,47.0,0,unknown,0
+2011,Armenia,0,0,0,0,0,0,Emmy,Boom Boom,English,Pop,1,4,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,5,0,0,,,12.0,,,54.0,0,unknown,0
+2011,Turkey,0,0,0,0,0,0,Yuksek Sadakat,Live It Up,English,Rock,1,5,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,1,0,4,0,,,13.0,,,47.0,0,unknown,0
+2011,Malta,0,0,0,0,0,0,Glen Vella,One Life,English,Pop,1,11,-,,Male,1,unknown,unknown,A Minor,137,90,70,35,3 dB,7,0,8,9,unknown,unknown,2,3,0,0,,,11.0,,,54.0,0,unknown,0
+2011,San Marino,0,0,0,0,0,0,Senit,Stand By,English,Ballad,1,12,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,3,2,0,,,16.0,,,34.0,0,unknown,0
+2011,Croatia,0,0,0,0,0,0,Daria,Celebrate,English,Dance,1,13,-,,Female,1,unknown,unknown,Fs Major,128,87,77,38,7 dB,0,84,8,4,unknown,unknown,0,4,1,0,,,15.0,,,41.0,0,unknown,0
+2011,Portugal,0,0,0,0,0,0,Homens da Luta,A luta e alegria,Portuguese,Pop,1,16,-,,Mix,6,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,0,1,,,18.0,,,22.0,0,unknown,0
+2011,Netherlands,0,0,0,0,0,0,3JS,Never Alone,English,Ballad,2,3,-,,Male,1,unknown,unknown,C Major,97,83,48,57,6 dB,1,0,32,3,unknown,unknown,0,3,2,0,,,19.0,,,13.0,0,unknown,0
+2011,Belgium,0,0,0,0,0,0,Witloof Bay,With Love Baby,English,Pop,2,4,-,,Mix,6,unknown,unknown,C Minor,88,62,88,67,9 dB,17,0,22,15,unknown,unknown,0,0,0,0,,,11.0,,,53.0,0,unknown,0
+2011,Slovakia,0,0,0,0,0,0,TWiiNS,I'm Still Alive,English,Ballad,2,5,-,,Female,2,unknown,unknown,A Major,87,76,50,34,3 dB,41,0,7,3,unknown,unknown,0,2,2,0,,,13.0,,,48.0,0,unknown,0
+2011,Cyprus,0,0,0,0,0,0,Christos Mylordos,San aggelos s'agapisa,Greek,Pop,2,9,-,,Male,4,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,1,1,0,,,18.0,,,16.0,0,unknown,0
+2011,Bulgaria,0,0,0,0,0,0,Poli Genova,Na inat,Bulgarian,Rock,2,10,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,5,0,,,12.0,,,48.0,0,unknown,0
+2011,North Macedonia,0,0,0,0,0,0,Vlatko Ilievski,Rusinka,"Macedonian, English",Pop,2,11,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,5,0,0,1,,,16.0,,,36.0,0,unknown,0
+2011,Israel,0,0,0,0,0,0,Dana International,Ding Dong,"Hebrew, English",Pop,2,12,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,5,0,0,,,15.0,,,38.0,0,unknown,0
+2011,Belarus,0,0,0,0,0,0,Anastasia Vinnikova,I Love Belarus,English,Pop,2,16,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,4,1,0,,,14.0,,,45.0,0,unknown,0
+2011,Latvia,0,0,0,0,0,0,Musiqq,Angel in Disguise,English,Pop,2,17,-,,Male,2,unknown,unknown,Bb Major,125,79,63,61,4 dB,1,0,9,5,unknown,unknown,0,4,0,1,,,17.0,,,25.0,0,unknown,0
+2011,Bosnia and Herzegovina,0,0,0,0,0,1,Dino Merlin,Love in Rewind,English,Pop,2,1,2,6.0,Male,1,unknown,unknown,Fs Minor,84,65,53,39,8 dB,45,0,4,3,unknown,unknown,0,0,5,0,,,5.0,,,109.0,0,unknown,0
+2010,Germany,243,187,430,1,1,1,Lena,Satellite,English,Pop,2,-,22,1.0,Female,1,unknown,unknown,E Minor,95,94,75,87,10 dB,0,79,10,5,unknown,unknown,0,4,0,0,,,,,,109.5,1,unknown,0
+2010,Romania,155,167,322,0,0,1,Paula Seling†and†Ovi,Playing with Fire,English,Pop,2,10,19,3.0,Mix,2,unknown,unknown,G Major,122,82,66,96,3 dB,2,0,6,4,unknown,unknown,0,4,0,1,,,4.0,,,104.0,0,unknown,0
+2010,Turkey,177,119,296,0,0,1,maNga,We Could Be the Same,English,Rock,2,17,14,2.0,Male,1,unknown,unknown,A Minor,112,68,56,41,7 dB,1,0,14,3,unknown,unknown,0,0,4,0,,,1.0,,,118.0,0,unknown,0
+2010,Denmark,174,121,295,0,0,1,Chanee†and†N'evergreen,In a Moment Like This,English,Pop,2,4,25,4.0,Mix,2,unknown,unknown,Fs Major,95,77,66,39,5 dB,28,0,10,3,unknown,unknown,0,4,0,0,,,5.0,,,101.0,0,unknown,0
+2010,Georgia,127,160,287,0,0,1,Sofia Nizharadze,Shine,English,Ballad,2,16,13,9.0,Female,1,unknown,unknown,D Major,126,49,46,17,7 dB,17,0,31,3,unknown,unknown,3,2,0,0,,,3.0,,,106.0,0,unknown,0
+2010,Armenia,166,116,282,0,0,1,Eva Rivas,Apricot Stone,English,Pop,2,2,21,7.0,Female,1,unknown,unknown,B Minor,101,67,61,38,9 dB,25,0,16,10,unknown,unknown,1,3,1,0,,,6.0,,,83.0,0,unknown,0
+2010,Azerbaijan,161,116,277,0,0,1,Safura,Drip Drop,English,Ballad,2,7,1,5.0,Female,1,unknown,unknown,Fs Major,148,66,47,23,4 dB,1,0,8,3,unknown,unknown,1,3,0,0,,,2.0,,,113.0,0,unknown,0
+2010,Greece,152,110,262,0,0,1,Giorgos Alkaios†and†Friends,OPA,Greek1,Pop,1,13,11,8.0,Male,1,unknown,unknown,C Major,135,94,73,74,4 dB,0,1,7,4,unknown,unknown,0,4,0,0,,,2.0,,,133.0,0,unknown,0
+2010,Belgium,76,185,261,0,0,1,Tom Dice,Me and My Guitar,English,Pop,1,10,7,6.0,Male,1,unknown,unknown,A Major,129,34,47,42,8 dB,62,0,14,3,unknown,unknown,0,0,0,1,,,1.0,,,167.0,0,unknown,0
+2010,Ukraine,94,129,223,0,0,1,Alyosha,Sweet People,English,Ballad,2,8,17,10.0,Female,1,unknown,unknown,E Minor,120,41,63,12,6 dB,72,0,14,4,unknown,unknown,0,0,0,0,,,7.0,,,77.0,0,unknown,0
+2010,France,151,34,185,0,1,1,Jessy Matador,Allez Ola Ole,French,Dance,2,-,18,12.0,Male,1,unknown,unknown,B Major,129,93,64,72,5 dB,0,0,6,6,unknown,unknown,3,2,0,0,,,,,,109.5,0,unknown,0
+2010,Russia,107,63,170,0,0,1,Peter Nalitch and Friends,Lost and Forgotten,English,Ballad,1,2,20,11.0,Male,1,unknown,unknown,C Major,98,47,36,21,4 dB,16,0,10,3,unknown,unknown,0,0,5,0,,,7.0,,,74.0,0,unknown,0
+2010,Israel,27,134,161,0,0,1,Harel Skaat,Milim,Hebrew,Ballad,2,3,24,14.0,Male,1,unknown,unknown,Ab Minor,115,51,39,20,6 dB,60,0,19,3,unknown,unknown,0,2,1,0,,,8.0,,,71.0,0,unknown,0
+2010,Spain,106,43,149,0,1,1,Daniel Diges,Algo pequenito,Spanish,Pop,1,-,2,15.0,Male,1,unknown,unknown,D Minor,88,62,37,71,5 dB,73,0,27,8,unknown,unknown,4,1,0,0,,,,,,109.5,0,unknown,0
+2010,Serbia,110,37,147,0,0,1,Milan Stankovic,Ovo je Balkan,Serbian,Pop,1,7,8,13.0,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,2,2,0,0,,,5.0,,,79.0,0,unknown,0
+2010,Albania,35,97,132,0,0,1,Juliana Pasha,It's All About You,English,Pop,1,12,15,16.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,3,1,0,,,6.0,,,76.0,0,unknown,0
+2010,Iceland,40,57,97,0,0,1,Hera Bjork,Je ne sais quoi,English,Dance,1,17,16,19.0,Female,1,unknown,unknown,Eb Minor,132,88,53,28,4 dB,3,0,17,7,unknown,unknown,0,5,0,0,,,3.0,,,123.0,0,unknown,0
+2010,Portugal,24,69,93,0,0,1,Filipa Azevedo,Ha dias assim,Portuguese,Ballad,1,14,23,18.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,3,1,0,,,4.0,,,89.0,0,unknown,0
+2010,Norway,18,61,79,0,1,1,Didrik Solli-Tangen,My Heart Is Yours,English,Ballad,2,-,3,20.0,Male,1,unknown,unknown,A Major,133,24,28,22,5 dB,83,0,13,3,unknown,unknown,0,5,0,0,,,,,,109.5,0,unknown,1
+2010,Ireland,15,62,77,0,0,1,Niamh Kavanagh,It's for You,English,Ballad,2,12,10,23.0,Female,1,unknown,unknown,C Major,130,46,40,16,5 dB,33,0,9,3,unknown,unknown,0,4,0,0,,,9.0,,,67.0,0,unknown,0
+2010,Cyprus,16,57,73,0,0,1,Jon Lilygreen†and†The Islanders,Life Looks Better in Spring,English,Pop,2,14,5,21.0,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,2,3,1,,,10.0,,,67.0,0,unknown,0
+2010,Moldova,28,33,61,0,0,1,SunStroke Project†and†Olia Tira,Run Away,English,Pop,1,1,4,22.0,Mix,2,unknown,unknown,Eb Minor,130,93,66,36,3 dB,1,0,18,8,unknown,unknown,3,0,1,1,,,,,,109.5,0,unknown,0
+2010,Belarus,18,22,40,0,0,1,3+2†feat†Robert Wells,Butterflies,English,Ballad,1,16,9,24.0,Mix,5,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,1,0,,,9.0,,,59.0,0,unknown,0
+2010,Estonia,0,0,0,0,0,0,Malcolm Lincoln,Siren,English,Pop,1,3,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,4,1,0,,,14.0,,,39.0,0,unknown,0
+2010,Slovakia,0,0,0,0,0,0,Kristina,Horehronie,Slovak,Traditional,1,4,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,4,1,0,0,,,16.0,,,24.0,0,unknown,0
+2010,Finland,0,0,0,0,0,0,Kuunkuiskaajat,Tyolki ellaa,Finnish,Traditional,1,5,-,,Female,2,unknown,unknown,A Minor,115,84,46,55,5 dB,69,0,9,8,unknown,unknown,0,2,1,1,,,11.0,,,49.0,0,unknown,0
+2010,Latvia,0,0,0,0,0,0,Aisha,What For?,English,Ballad,1,6,-,,Female,1,unknown,unknown,G Minor,78,62,64,45,4 dB,6,0,19,3,unknown,unknown,0,4,0,0,,,17.0,,,11.0,0,unknown,0
+2010,Poland,0,0,0,0,0,0,Marcin Mrozinski,Legenda,"English,†Polish",Ballad,1,9,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,2,3,0,0,,,13.0,,,44.0,0,unknown,0
+2010,Malta,0,0,0,0,0,0,Thea Garrett,My Dream,English,Ballad,1,11,-,,Female,1,unknown,unknown,Fs Major,138,67,44,31,5 dB,14,0,12,3,unknown,unknown,1,3,0,0,,,12.0,,,45.0,0,unknown,0
+2010,North Macedonia,0,0,0,0,0,0,Gjoko Taneski,Jas ja imam silata,Macedonian,Pop,1,15,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,2,2,1,0,,,15.0,,,37.0,0,unknown,0
+2010,Lithuania,0,0,0,0,0,0,InCulto,Eastern European Funk,English,Dance,2,1,-,,Male,5,unknown,unknown,A Major,134,76,83,93,7 dB,3,0,18,5,unknown,unknown,0,0,0,0,,,12.0,,,44.0,0,unknown,0
+2010,Switzerland,0,0,0,0,0,0,Michael von der Heide,Il pleut de l'or,French,Pop,2,5,-,,Male,1,unknown,unknown,F Minor,128,75,73,73,6 dB,11,0,33,3,unknown,unknown,0,3,1,0,,,17.0,,,2.0,0,unknown,0
+2010,Sweden,0,0,0,0,0,0,Anna Bergendahl,This Is My Life,English,Pop,2,6,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,5,0,1,,,11.0,,,62.0,0,unknown,0
+2010,Netherlands,0,0,0,0,0,0,Sieneke,Ik ben verliefd,Dutch,Pop,2,9,-,,Female,1,unknown,unknown,Db Minor,162,91,62,77,3 dB,29,0,6,5,unknown,unknown,0,3,2,0,,,14.0,,,29.0,0,unknown,0
+2010,Slovenia,0,0,0,0,0,0,Ansambel zlindra†and†Kalamari,Narodnozabavni rock,Slovene,Rock,2,11,-,,Mix,2,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,4,0,,,16.0,,,6.0,0,unknown,0
+2010,Bulgaria,0,0,0,0,0,0,Miro,Angel si ti,"Bulgarian, English",Pop,2,13,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,4,0,0,0,,,15.0,,,19.0,0,unknown,0
+2010,Croatia,0,0,0,0,0,0,Feminnem,Lako je sve,Croatian,Ballad,2,15,-,,Female,3,unknown,unknown,Eb Minor,76,64,50,49,5 dB,38,0,15,4,unknown,unknown,2,0,0,0,,,13.0,,,33.0,0,unknown,0
+2010,Bosnia and Herzegovina,0,0,0,0,0,1,Vukasin Brajic,Thunder and Lightning,English,Rock,1,8,6,17.0,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,5,0,1,,,8.0,,,59.0,0,unknown,0
+2010,United Kingdom,0,0,0,0,1,1,Josh Dubovie,That Sounds Good to Me,English,Pop,1,-,12,25.0,Male,1,unknown,unknown,G Major,124,69,55,38,11 dB,14,87,18,4,unknown,unknown,2,3,0,0,,,,,,109.5,0,unknown,0
+2009,Norway,378,312,690,1,0,1,Alexander Rybak,Fairytale,English,Traditional,2,6,20,1.0,Male,1,unknown,unknown,D Minor,108,79,58,67,5 dB,62,0,23,3,unknown,unknown,3,2,0,1,,,1.0,,,201.0,1,unknown,0
+2009,Iceland,173,260,433,0,0,1,Yohanna,Is It True?,English,Ballad,1,12,7,2.0,Female,1,unknown,unknown,C Minor,84,57,47,23,7 dB,35,0,7,3,unknown,unknown,0,3,2,0,,,1.0,,,174.0,0,unknown,0
+2009,Azerbaijan,253,112,365,0,0,1,AySel†and†Arash,Always,English,Pop,2,12,11,3.0,Mix,2,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,3,0,0,0,,,2.0,,,180.0,0,unknown,0
+2009,United Kingdom,105,223,328,0,1,1,Jade Ewen,It's My Time,English,Ballad,2,-,23,5.0,Female,1,unknown,unknown,E Major,105,31,30,12,14 dB,1,79,29,3,unknown,unknown,0,0,5,0,,,,,,120.0,0,unknown,0
+2009,Turkey,203,114,317,0,0,1,Hadise,Dum Tek Tek,English,Dance,1,9,18,4.0,Female,1,unknown,unknown,F Major,115,97,75,87,4 dB,13,0,8,6,unknown,unknown,2,2,0,0,,,2.0,,,172.0,0,unknown,0
+2009,Estonia,129,124,253,0,0,1,Urban Symphony,Randajad,Estonian,Ballad,2,18,15,6.0,Female,1,unknown,unknown,F Minor,124,72,69,64,6 dB,3,0,33,4,unknown,unknown,0,2,3,1,,,3.0,,,115.0,0,unknown,0
+2009,Greece,151,93,244,0,0,1,Sakis Rouvas,This Is Our Night,English,Dance,2,13,8,7.0,Male,1,unknown,unknown,Fs Minor,128,92,65,65,5 dB,4,0,16,7,unknown,unknown,4,0,0,0,,,4.0,,,110.0,0,unknown,0
+2009,France,54,164,218,0,1,1,Patricia Kaas,Et s'il fallait le faire,French,Ballad,2,-,3,8.0,Female,1,unknown,unknown,A Major,92,58,26,23,8 dB,55,0,90,8,unknown,unknown,0,0,0,0,,,,,,120.0,0,unknown,0
+2009,Bosnia and Herzegovina,124,90,214,0,0,1,Regina,Bistra voda,Bosnian,Ballad,1,18,12,9.0,Male,1,unknown,unknown,Fs Minor,152,78,52,38,4 dB,44,0,11,4,unknown,unknown,0,0,5,0,,,3.0,,,125.0,0,unknown,0
+2009,Russia,118,67,185,0,1,1,Anastasiya Prikhodko,Mamo,"Russian,†Ukrainian",Ballad,1,-,10,11.0,Female,1,unknown,unknown,D Minor,130,94,64,45,4 dB,41,0,26,5,unknown,unknown,0,5,0,0,,,,,,120.0,0,unknown,1
+2009,Armenia,111,71,182,0,0,1,Inga and Anush,Jan Jan,"English,†Armenian",Traditional,1,6,9,10.0,Female,2,unknown,unknown,E Minor,115,86,78,76,4 dB,36,0,35,8,unknown,unknown,4,0,0,0,,,5.0,,,99.0,0,unknown,0
+2009,Denmark,40,120,160,0,0,1,Niels Brinck,Believe Again,English,Rock,2,9,16,13.0,Male,1,unknown,unknown,E Minor,128,75,66,34,5 dB,1,0,10,5,unknown,unknown,0,0,5,0,,,8.0,,,69.0,0,unknown,0
+2009,Moldova,66,93,159,0,0,1,Nelly Ciobanu,Hora din Moldova,"Romanian, English",Traditional,2,15,13,14.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,4,1,0,0,,,5.0,,,106.0,0,unknown,0
+2009,Ukraine,70,68,138,0,0,1,Svetlana Loboda,Be My Valentine! (Anti-Crisis Girl),English,Pop,2,17,21,12.0,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,5,0,0,1,,,6.0,,,80.0,0,unknown,0
+2009,Israel,15,107,122,0,0,1,Noa†and†Mira Awad,There Must Be Another Way,"English,†Hebrew,†Arabic",Pop,1,10,2,16.0,Female,2,unknown,unknown,Db Major,106,79,60,69,5 dB,23,0,10,2,unknown,unknown,0,0,3,0,,,7.0,,,75.0,0,unknown,0
+2009,Croatia,55,58,113,0,0,1,Igor Cukrov†feat.†Andrea,Lijepa Tena,Croatian,Ballad,2,1,5,18.0,Mix,2,unknown,unknown,Db Minor,116,69,58,43,4 dB,56,0,8,3,unknown,unknown,0,4,0,0,,,13.0,,,33.0,0,unknown,0
+2009,Portugal,45,64,109,0,0,1,Flor-de-Lis,Todas as ruas do amor,Portuguese,Traditional,1,16,6,15.0,Female,1,unknown,unknown,G Major,95,70,50,33,5 dB,34,0,12,3,unknown,unknown,0,0,5,0,,,8.0,,,70.0,0,unknown,0
+2009,Albania,81,26,107,0,0,1,Kejsi Tola,Carry Me in Your Dreams,English,Dance,2,16,19,17.0,Female,1,unknown,unknown,Ab Minor,128,67,68,67,8 dB,0,0,8,5,unknown,unknown,3,2,0,0,,,7.0,,,73.0,0,unknown,0
+2009,Malta,18,87,105,0,0,1,Chiara,What If We,English,Ballad,1,17,14,22.0,Female,1,unknown,unknown,Db Major,123,44,48,14,7 dB,62,0,7,3,unknown,unknown,0,0,0,0,,,6.0,,,86.0,0,unknown,0
+2009,Romania,64,31,95,0,0,1,Elena,The Balkan Girls,English,Dance,1,14,22,19.0,Female,1,unknown,unknown,F Major,130,86,72,63,4 dB,2,0,5,3,unknown,unknown,4,0,0,0,,,9.0,,,67.0,0,unknown,0
+2009,Germany,18,73,91,0,1,1,Alex†Swings†Oscar†Sings!,Miss Kiss Kiss Bang,English,Pop,1,-,17,20.0,Male,1,unknown,unknown,Bb Minor,136,89,62,56,4 dB,11,0,20,21,unknown,unknown,3,1,1,0,,,,,,120.0,0,unknown,0
+2009,Sweden,59,27,86,0,0,1,Malena Ernman,La voix,"French, English",Traditional,1,5,4,21.0,Female,1,unknown,unknown,Bb Major,128,65,52,46,4 dB,35,0,21,4,unknown,unknown,5,0,0,0,,,4.0,,,105.0,0,unknown,0
+2009,Lithuania,38,31,69,0,0,1,Sasha Son,Love,"English, Russian",Ballad,2,14,1,23.0,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,3,1,0,,,9.0,,,66.0,0,unknown,0
+2009,Spain,38,9,47,0,1,1,Soraya Arnelas,La noche es para mi,"Spanish, English",Dance,2,-,25,24.0,Female,1,unknown,unknown,F Minor,126,70,69,87,7 dB,1,73,14,3,unknown,unknown,2,3,0,0,,,,,,120.0,0,unknown,0
+2009,Finland,30,12,42,0,0,1,Waldo's People,Lose Control,English,Pop,1,15,24,25.0,Male,1,unknown,unknown,G Major,138,96,56,88,4 dB,0,23,26,6,unknown,unknown,2,3,0,0,,,12.0,,,42.0,0,unknown,0
+2009,Montenegro,0,0,0,0,0,0,Andrea Demirovic,Just Get Out of My Life,English,Pop,1,1,-,,Female,1,unknown,unknown,G Minor,138,91,56,56,3 dB,2,0,66,5,unknown,unknown,1,0,0,0,,,,,,120.0,0,unknown,0
+2009,Czech Republic,0,0,0,0,0,0,Gipsy.cz,Aven Romale,"English,†Romani",Traditional,1,2,-,,Male,1,unknown,unknown,Bb Minor,154,84,80,69,7 dB,20,0,23,46,unknown,unknown,0,0,5,0,,,18.0,,,0.0,0,unknown,0
+2009,Belgium,0,0,0,0,0,0,Copycat,Copycat,English,Pop,1,3,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,2,2,0,,,17.0,,,1.0,0,unknown,0
+2009,Belarus,0,0,0,0,0,0,Petr Elfimov,Eyes That Never Lie,English,Rock,1,4,-,,Male,1,unknown,unknown,D Minor,138,90,39,26,4 dB,0,0,34,5,unknown,unknown,1,2,1,0,,,13.0,,,25.0,0,unknown,0
+2009,Andorra,0,0,0,0,0,0,Susanne Georgi,La teva decisio (Get a Life),"Catalan, English",Pop,1,7,-,,Female,1,unknown,unknown,D Major,133,40,77,92,16 dB,7,0,10,5,unknown,unknown,0,2,2,0,,,15.0,,,8.0,0,unknown,0
+2009,Switzerland,0,0,0,0,0,0,Lovebugs,The Highest Heights,English,Rock,1,8,-,,Male,1,unknown,unknown,D Minor,118,93,47,29,4 dB,1,3,38,4,unknown,unknown,0,0,4,0,,,14.0,,,15.0,0,unknown,0
+2009,Bulgaria,0,0,0,0,0,0,Krassimir Avramov,Illusion,English,Dance,1,11,-,,Mix,4,unknown,unknown,E Minor,130,91,49,44,5 dB,1,0,9,7,unknown,unknown,2,0,0,0,,,16.0,,,7.0,0,unknown,0
+2009,North Macedonia,0,0,0,0,0,0,Next Time,Nesto sto kje ostane,Macedonian,Rock,1,13,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,5,0,,,10.0,,,45.0,0,unknown,0
+2009,Ireland,0,0,0,0,0,0,Sinead Mulvey†and†Black Daisy,Et Cetera,English,Rock,2,2,-,,Female,1,unknown,unknown,F Minor,170,75,45,44,6 dB,0,0,36,3,unknown,unknown,0,0,3,0,,,11.0,,,52.0,0,unknown,0
+2009,Latvia,0,0,0,0,0,0,Intars Busulis,Probka,Russian,Pop,2,3,-,,Mix,3,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,3,0,,,19.0,,,7.0,0,unknown,0
+2009,Serbia,0,0,0,0,0,0,Marko Kon†and†Milaan,Cipela,Serbian,Traditional,2,4,-,,Male,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,4,0,1,0,,,10.0,,,60.0,0,unknown,0
+2009,Poland,0,0,0,0,0,0,Lidia Kopania,I Don't Wanna Leave,English,Ballad,2,5,-,,Female,1,unknown,unknown,Fs Major,144,69,45,26,4 dB,31,0,55,3,unknown,unknown,2,3,0,0,,,12.0,,,43.0,0,unknown,0
+2009,Cyprus,0,0,0,0,0,0,Christina Metaxa,Firefly,English,Ballad,2,7,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,5,0,0,,,14.0,,,32.0,0,unknown,0
+2009,Slovakia,0,0,0,0,0,0,Kamil Mikulcik†and†Nela Pociskova,Le? tmou,Slovak,Ballad,2,8,-,,Mix,2,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,2,0,,,18.0,,,8.0,0,unknown,0
+2009,Slovenia,0,0,0,0,0,0,Quartissimo†feat.†Martina,Love Symphony,"English,†Slovene",Pop,2,10,-,,Female,1,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,0,4,0,,,16.0,,,14.0,0,unknown,0
+2009,Hungary,0,0,0,0,0,0,Zoli adok,Dance with Me,English,Pop,2,11,-,,Male,1,unknown,unknown,Ab Major,125,96,66,81,4 dB,0,0,8,10,unknown,unknown,3,2,0,0,,,15.0,,,16.0,0,unknown,0
+2009,Netherlands,0,0,0,0,0,0,The Toppers,Shine,English,Pop,2,19,-,,Male,3,unknown,unknown,-,-,-,-,-,,-,-,-,-,unknown,unknown,0,3,0,0,,,17.0,,,11.0,0,unknown,0
